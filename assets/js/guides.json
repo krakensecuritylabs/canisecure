@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[
+	{% for guide in site.guides %}
+		{
+			"title": "{{ guide.title | strip_newlines | remove_chars | escape_once }}",
+			"description": {{guide.description | markdownify | strip | jsonify }},
+			"url" : "{{ guide.url }}",
+			"keywords" : "{{ guide.keywords }}"
+		} {% unless forloop.last %},{% endunless %}
+	{% endfor %}
+]

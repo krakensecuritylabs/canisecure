@@ -1,0 +1,14 @@
+---
+layout: default
+title: guides on Can I secure…
+---
+{% assign guides-by-category = site.guides | group_by:"category" %}
+{% for category in guides-by-category %}
+	<h1 class="canisecure-list-title">{{ site.data.nicenames.category[category.name] | default: category.name }}</h1>
+	<ul class="canisecure-list">
+		{% assign guides = category.items %}
+		{% for guide in guides %}
+			<li><a href="{{ guide.url }}">{{ guide.title | escape_once }}</a></li>
+		{% endfor %}
+	</ul>
+{% endfor %}

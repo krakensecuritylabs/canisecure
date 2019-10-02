@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Can I secure… {{ page.title | escape_once | markdownify | strip_html }}</title>
+	<link rel="stylesheet" href="/assets/css/styles.css" />
+	<script src="/assets/js/canisecure.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" href="/assets/images/favicon.png" />
+	<link rel="prefetch" href="/assets/js/guides.json" />
+	<meta name="description" content="Guides for securing your things" />
+	<meta property="og:title" content="Can I secure…" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Guides for securing your things" />
+	<meta property="og:url" content="https://www.canisecure.com/" />
+</head>
+<body>
+	<div class="canisecure">
+		{% include header.html %}
+		<main class="canisecure-main" role="main">
+			{{ content }}
+		</main>
+		{% include footer.html %}
+	</div>
+</body>
+</html>

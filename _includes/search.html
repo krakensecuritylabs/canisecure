@@ -1,0 +1,12 @@
+<div class="canisecure-search" role="search">
+	<form action="/search/" method="get" class="canisecure-search-form">
+		<label for="canisecure-search">
+			<span class="canisecure-search-text">Can I secure</span>
+			<span class="canisecure-search-input-container"><input type="search" class="canisecure-search-input" id="canisecure-search" name="s" spellcheck="false" value="" placeholder="LinkedIn, Facebook, &hellip;" {% if page.url == "/" %}autofocus{% endif %} /></span>
+			<span class="canisecure-search-text">?</span>
+		</label>
+		<noscript>
+			<button type="submit" class="canisecure-search-button">Search</button>
+		</noscript>
+	</form>
+</div>

@@ -1,0 +1,30 @@
+---
+title: Search
+layout: default
+---
+<noscript>
+	<div class="warning">
+		This website was poorly built and requires JavaScript for the search to properly work. Bummer. But below you can find a dump of all the guides available with their name and keywords.
+	</div>
+</noscript>
+<div class="post">
+	<div class="post-inside">
+		<h1 class="post-title">Search</h1>
+		This is the search page. Try using the search text box above. Or browse the following list of all the guides available.
+	</div>
+</div>
+{% assign guides-by-category = site.guides | group_by:"category" %}
+{% for category in guides-by-category %}
+	<h1 class="canisecure-list-title">{{ site.data.nicenames.category[category.name] | default: category.name }}</h1>
+	<ul class="canisecure-list">
+		{% assign guides = category.items %}
+		{% for guide in guides %}
+			<li>
+				<a href="{{ guide.url }}">{{ guide.title | escape_once }}</a>
+				{% if guide.keywords != nil and guide.keywords != "" %}
+				({{ guide.keywords | escape_once }})
+				{% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}

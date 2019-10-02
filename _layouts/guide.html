@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<section class="guide">
+	<header class="guide-header">
+		<div class="guide-header-column">
+			<h1 class="guide-title">{{ page.title | escape_once }}</h1>
+			<div class="guide-description">
+				{{ page.description | markdownify }}
+			</div>
+		</div>
+	</header>
+	<div class="guide-inside">
+			{{ content | markdownify }}
+	</div>
+	<footer class="guide-footer">
+		{% if page.notes_by_num.size > 0 or page.links.size > 0%}
+		<div class="data-notes">
+			{% if page.notes_by_num.size > 0 %}
+				<h2 class="canisecure-list-title">Notes</h2>
+				{{ page.notes | markdownify }}
+				<ul class="data-notes-list">
+				{% for note in page.notes_by_num %}
+					{% assign note-key = note | first %}
+					{% assign note-value = note | last %}
+					<li class="data-note" id="{{ page.title | slugify }}-cite-note-{{ note-key | slugify }}">
+						<span class="data-note-key">{{ note-key }}</span> {{ note-value | markdownify }}
+					</li>
+				{% endfor %}
+			</ul>
+			{% endif %}
+			{% if page.links.size > 0 %}
+				<h2 class="canisecure-list-title">Resources</h2>
+				<ul class="canisecure-list">
+				{% for link in page.links %}
+					{% assign link-title = link | first %}
+					{% assign link-url = link | last %}
+					<li>
+						<a href="{{ link-url | escape_once }}">{{ link-title | markdownify | strip_html | strip }}</a>
+					</li>
+				{% endfor %}
+				</ul>
+			{% endif %}
+		</div>
+		{% endif %}
+		<div class="data-contribute">
+			<h2 class="canisecure-list-title">Know something we don't?</h2>
+			<p>
+				This guide was last updated {{ page.updated | escape_once }}. Is any of the above data outdated? Head on to GitHub and edit the guide!
+			</p>
+			<p class="data-contribute-buttons">
+				<a href="{% github_edit_link %}" class="guide-button">Edit this page on GitHub</a>
+				<a href="{{ site.github.issues_url }}" class="guide-button">Report an issue on GitHub</a>
+			</p>
+			<p>
+				Not comfortable with GitHub? <a href="mailto:guide@canisecure.com?subject=[canisecure]%20{{ page.id | uri_escape }}">Send us an email</a> or <a href="https://www.twitter.com/canisecure">get in touch on Twitter</a>.
+			</p>
+		</div>
+	</footer>
+</section>
