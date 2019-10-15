@@ -27,17 +27,22 @@
   }
 
   * > code {
-    font-size: 1.25em;
+		background-color:#3c3c3d;
+		display:block;
+		font-family:monospace;
+		border:.8px solid #ddd;
+		margin-bottom: 1.6em;
+		padding:.7em;
+		font-size:1em
   }
 
-	.guide-inside > *:not(:last-child) {
-		margin-bottom: 1.5rem;
+	.guide-inside > * {
+		margin-bottom: 1rem;
 	}
+	
 }
 
-.guide-inside {
-	margin: 0 auto;
-}
+
 
 .guide-title {
 	color: #eee;
