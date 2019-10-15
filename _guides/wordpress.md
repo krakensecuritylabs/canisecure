@@ -1,8 +1,8 @@
 ---
-title: "Wordpress"
+title: "WordPress"
 keywords: "wordpress"
 updated: "2019-10-15"
-category: "CMS"
+category: "Software"
 links: {
   "https://perishablepress.com/stop-user-enumeration-wordpress":"https://perishablepress.com/stop-user-enumeration-wordpress",
   "https://www.helpbot.net/what-is-xmlrpcphp-in-wordpress-and-why-should-you-disable-it":"https://www.helpbot.net/what-is-xmlrpcphp-in-wordpress-and-why-should-you-disable-it",
