@@ -410,3 +410,99 @@ code {
 		grid-gap: 1rem;
 	}
 }
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-MediumItalic.99b8184b.woff2) format("woff2"), url(/assets/fonts/CeliasW05-MediumItalic.8404278c.woff) format("woff");
+	font-weight: 500;
+	font-style: italic
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-Bold.7df20ac1.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Bold.1620b323.woff) format("woff");
+	font-weight: 700;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-ThinItalic.106c65ab.woff2) format("woff2"), url(/assets/fonts/CeliasW05-ThinItalic.288bfeb7.woff) format("woff");
+	font-weight: 100;
+	font-style: italic
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: swap;
+	src: url(/assets/fonts/CeliasW05-BoldItalic.c29121b4.woff2) format("woff2"), url(/assets/fonts/CeliasW05-BoldItalic.7ac20810.woff) format("woff");
+	font-weight: 700;
+	font-style: italic
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: swap;
+	src: url(/assets/fonts/CeliasW05-Black.a5064ba2.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Black.eb8d24cd.woff) format("woff");
+	font-weight: 900;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: swap;
+	src: url(/assets/fonts/CeliasW05-BlackItalic.7fb94cd9.woff2) format("woff2"), url(/assets/fonts/CeliasW05-BlackItalic.895b9c31.woff) format("woff");
+	font-weight: 900;
+	font-style: italic
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-Light.b815627d.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Light.62a482e2.woff) format("woff");
+	font-weight: 300;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-Medium.963e03f8.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Medium.cd0fa901.woff) format("woff");
+	font-weight: 500;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-Regular.b22cd712.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Regular.d38be720.woff) format("woff");
+	font-weight: 400;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-Thin.e9b40e63.woff2) format("woff2"), url(/assets/fonts/CeliasW05-Thin.df84c0dd.woff) format("woff");
+	font-weight: 100;
+	font-style: normal
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-RegularItalic.7345054b.woff2) format("woff2"), url(/assets/fonts/CeliasW05-RegularItalic.4b2c355d.woff) format("woff");
+	font-weight: 400;
+	font-style: italic
+}
+
+@font-face {
+	font-family: Celias;
+	font-display: fallback;
+	src: url(/assets/fonts/CeliasW05-LightItalic.f56e65ad.woff2) format("woff2"), url(/assets/fonts/CeliasW05-LightItalic.e03bb8ad.woff) format("woff");
+	font-weight: 300;
+	font-style: italic
+}
