@@ -15,7 +15,7 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
 
      Login and Security
 
-    -   **Email Addresses** - Review this setting and make sure that you DO NOT have a Kraken email listed here. Nor should you have an old or unused email address listed. Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
+    -   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
     -   **Phone numbers** - This is unfortunately the only method of 2FA for LinkedIn, but you should make sure that the phone number has "Use for password reset" unchecked. Use a phone number that is NOT your mobile number like a Google Voice number. We will limit who can see this phone number or find you via it in a later section.
     -   **Change Password** - Make sure this password is long, complex, and unique. If you haven't change this in a while, change it now.
     -   **Where you're signed in** - Review this and remove any session other than the one you are on. You will be asked to login again your other devices. This will clear any rogue session that may exist.
@@ -29,15 +29,15 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
     -   **Feed preferences** - You can leave this alone unless you want to customize who you follow and see updates from.
     -   **Name, Location, Industry** - Pay attention here. This is where a lot of the privacy information comes from within LinkedIn.
 
-    -   Your headline leaks where you currently work. Change this to "YOUR_ROLE at Undisclosed".
+    -   Your headline leaks where you currently work. Consider changing this to "YOUR_ROLE at Undisclosed" if you work somewhere that might put you at a higher risk.
     -   Current position maps to what your current position is in your profile. Leave this as-is for now and we will customize it later.
     -   Uncheck "Show education in my intro".
     -   Country/Region - You can leave this as-is or change to something fake.
     -   Zip Code - Remove this if there is anything there.
     -   Industry - Select something other than Financial Services, Banking, etc.
     -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
-    -   Summary - This is your Bio, make sure you don't leak Kraken here or anything bitcoin or crypto-related.
-    -   Media - If you have Kraken, bitcoin or crypto media shared here, click the "pencil" and remove it.
+    -   Summary - This is your Bio. Consider against leaking your organization or anything crypto-related that might make you a target.
+    -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any shared crypto media).
     -   Click "Save".
 
      Subscriptions and Payments
@@ -61,11 +61,11 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
         -   **Your Profiles Public Visibility** - This is recommended to be turned "Off".
         -   If you don't want to go that far or can't for business reasons make the following changes to the radio buttons below:
             -   Profile Photos - Set to your connections only.
-            -   Headline - Show (Make sure your Headline does not mention Kraken, Bitcoin or cryptocurrency) 
+            -   Headline - Show (Consider against mentioning your workplace or cryptocurrency) 
             -   Websites - Hide
-            -   Summary - Show (Make sure this summary does not mention Kraken, Bitcoin or cryptocurrency)
+            -   Summary - Show (Consider against mentioning your workplace or cryptocurrency)
             -   Posts & Activities - Hide
-            -   Current Experience - Hide (Make sure this position does not mention Kraken, Bitcoin or cryptocurrency)
+            -   Current Experience - Hide (Consider against mentioning your workplace or cryptocurrency)
             -   Past Experience - Hide
             -   Education - Hide
             -   Volunteer Experiences - Hide
@@ -82,7 +82,7 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
 
     -   Disable **Who Can See Your Email Address**. Make your email address only visible to you and ensure the setting to allow your connections to download your email in their data export is set to "No".
     -   Set "Only You" for the option of **Who Can See Your Connections**. If a hacker is trying to target you, they'll do that either directly or through one of your connections. Similarly, if a hacker is trying to target someone else or a company, they'll do that either directly or through a connection, which could be you. Minimizing who can see your connections will make this step of the attack harder.
-    -   **Viewers of this profile also viewed **- Change this to "No" this might tip someone off of others who work with you at Kraken even if their profile is sanitized.
+    -   **Viewers of this profile also viewed **- Change this to "No" this might tip someone off of others who work with you at your workplace even if their profile is sanitized.
     -   Minimize **Who Can See Your Last Name** settings to be abbreviated to just the first letter of your last name.
     -   **Representing your organization and interests** - Set this to "No"
     -   Disable **Profile visibility off LinkedIn**.
