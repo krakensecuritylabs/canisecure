@@ -1,6 +1,5 @@
 ---
 title: "WordPress"
-keywords: "wordpress"
 updated: "2019-10-15"
 category: "Software"
 links: {
