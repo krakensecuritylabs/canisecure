@@ -72,7 +72,7 @@ Here is a quick overview of the project's folders structure:
 
 
 * `description`: A sensible description of the guide.
-* `category`: Category to group guides (e.g., `software` or `social media`).
+* `category`: Category to group guides (e.g., `Software` or `Social Media`).
 * `updated`: The date of the last update in that file. This is useful to sort features by last update on the homepage of the site.
 * `links`: External references to other sites.
 

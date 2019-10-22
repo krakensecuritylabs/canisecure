@@ -415,11 +415,12 @@
 		}
 
 		& > .data-contribute {
-			border-right: 1px solid #3c3c3d;
+			//border-right: 1px solid #3c3c3d;
 		}
 
 		& > .data-notes {
-			width: 100%;
+			width: 50%;
+			border-right: 1px solid #3c3c3d;
 		}
 	}
 }
@@ -523,6 +524,7 @@
 
 		.data-contribute,
 		.data-test {
+			width: 50%;
 			display: none;
 		}
 

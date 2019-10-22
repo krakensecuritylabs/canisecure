@@ -16,19 +16,6 @@ layout: default
 	<footer class="guide-footer">
 		{% if page.notes_by_num.size > 0 or page.links.size > 0%}
 		<div class="data-notes">
-			{% if page.notes_by_num.size > 0 %}
-				<h2 class="canisecure-list-title">Notes</h2>
-				{{ page.notes | markdownify }}
-				<ul class="data-notes-list">
-				{% for note in page.notes_by_num %}
-					{% assign note-key = note | first %}
-					{% assign note-value = note | last %}
-					<li class="data-note" id="{{ page.title | slugify }}-cite-note-{{ note-key | slugify }}">
-						<span class="data-note-key">{{ note-key }}</span> {{ note-value | markdownify }}
-					</li>
-				{% endfor %}
-			</ul>
-			{% endif %}
 			{% if page.links.size > 0 %}
 				<h2 class="canisecure-list-title">Resources</h2>
 				<ul class="canisecure-list">
@@ -51,9 +38,6 @@ layout: default
 			<p class="data-contribute-buttons">
 				<a href="{% github_edit_link %}" class="guide-button">Edit this page on GitHub</a>
 				<a href="{{ site.github.issues_url }}" class="guide-button">Report an issue on GitHub</a>
-			</p>
-			<p>
-				Not comfortable with GitHub? <a href="mailto:guide@canisecure.com?subject=[canisecure]%20{{ page.id | uri_escape }}">Send us an email</a> or <a href="https://www.twitter.com/canisecure">get in touch on Twitter</a>.
 			</p>
 		</div>
 	</footer>
