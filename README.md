@@ -66,7 +66,7 @@ Here is a quick overview of the project's folders structure:
     - `_sass`: Sass files. All files will be compiled into one in the `assets/css/` folder.
     - `assets`: CSS, images, and JavaScript files.
 
-### Contributing
+## Contributing
 
 1. Create a new Markdown file inside the `_guides` folder. You can duplicate the existing `_template.md` file for an existing model.
 
