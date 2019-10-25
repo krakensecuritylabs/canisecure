@@ -4,9 +4,6 @@ updated: "2019-10-23"
 category: "Personal"
 ---
 
-IoT Devices 
-============
-
 Many of us may have Internet of Things (IoT) devices in our home. The way most IoT devices work is that they phone home to a cloud-based service enabling their ability to be controlled remotely. These devices include thermostats, home audio systems, lights and even cameras. 
 
 Be very careful what you plug into your home. A device that is on your network has access to everything else on the network and a device that is recording video and audio can record anything that happens or is said within your home. 
