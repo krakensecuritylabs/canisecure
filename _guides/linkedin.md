@@ -3,7 +3,8 @@ title: "Linkedin"
 updated: "2019-09-20"
 category: "Account Security"
 ---
-Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* leaking any association (e.g., don't say where you work and don't say you attend monthly crypto meetups) 
+
+Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* broadcasting that information to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups)
 
 Locking Down Your Account
 =========================
