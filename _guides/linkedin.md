@@ -1,7 +1,7 @@
 ---
 title: "Linkedin"
 updated: "2019-09-20"
-category: "Social Media"
+category: "Account Security"
 ---
 
 Locking Down Your Account
