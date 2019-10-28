@@ -29,16 +29,16 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
     -   **Feed preferences** - You can leave this alone unless you want to customize who you follow and see updates from.
     -   **Name, Location, Industry** - Pay attention here. This is where a lot of the privacy information comes from within LinkedIn.
 
-    -   Your headline leaks where you currently work. Consider changing this to "YOUR_ROLE at Undisclosed" if you work somewhere that might put you at a higher risk.
-    -   Current position maps to what your current position is in your profile. Leave this as-is for now and we will customize it later.
-    -   Uncheck "Show education in my intro".
-    -   Country/Region - You can leave this as-is or change to something fake.
-    -   Zip Code - Remove this if there is anything there.
-    -   Industry - Select something other than Financial Services, Banking, etc.
-    -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
-    -   Summary - This is your Bio. Consider against leaking your organization or anything crypto-related that might make you a target.
-    -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any shared crypto media).
-    -   Click "Save".
+        -   Your headline leaks where you currently work. Consider changing this to "YOUR_ROLE at Undisclosed" if you work somewhere that might put you at a higher risk.
+        -   Current position maps to what your current position is in your profile. Leave this as-is for now and we will customize it later.
+        -   Uncheck "Show education in my intro".
+        -   Country/Region - You can leave this as-is or change to something fake.
+        -   Zip Code - Remove this if there is anything there.
+        -   Industry - Select something other than Financial Services, Banking, etc.
+        -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
+        -   Summary - This is your Bio. Consider against leaking your organization or anything crypto-related that might make you a target.
+        -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any shared crypto media).
+        -   Click "Save".
 
      Subscriptions and Payments
 
