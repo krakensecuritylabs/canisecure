@@ -3,6 +3,7 @@ title: "Linkedin"
 updated: "2019-09-20"
 category: "Account Security"
 ---
+Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* leaking any association (e.g., don't say where you work and don't say you attend monthly crypto meetups) 
 
 Locking Down Your Account
 =========================
@@ -36,8 +37,8 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
         -   Zip Code - Remove this if there is anything there.
         -   Industry - Select something other than Financial Services, Banking, etc.
         -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
-        -   Summary - This is your Bio. Consider against leaking your organization or anything crypto-related that might make you a target.
-        -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any shared crypto media).
+        -   Summary - This is your Bio. Consider against leaking sensitive info that might make you a target.
+        -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any other sensitive info).
         -   Click "Save".
 
      Subscriptions and Payments
@@ -61,11 +62,11 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
         -   **Your Profiles Public Visibility** - This is recommended to be turned "Off".
         -   If you don't want to go that far or can't for business reasons make the following changes to the radio buttons below:
             -   Profile Photos - Set to your connections only.
-            -   Headline - Show (Consider against mentioning your workplace or cryptocurrency) 
+            -   Headline - Show (Consider against mentioning sensitive info) 
             -   Websites - Hide
-            -   Summary - Show (Consider against mentioning your workplace or cryptocurrency)
+            -   Summary - Show (Consider against mentioning sensitive info)
             -   Posts & Activities - Hide
-            -   Current Experience - Hide (Consider against mentioning your workplace or cryptocurrency)
+            -   Current Experience - Hide (Consider against mentioning sensitive info)
             -   Past Experience - Hide
             -   Education - Hide
             -   Volunteer Experiences - Hide
