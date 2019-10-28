@@ -4,3 +4,5 @@
   link: /guides/
 - name: News
   link: /news/
+- name: Contribute
+  link: https://github.com/krakensecuritylabs/canisecure
