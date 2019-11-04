@@ -68,7 +68,7 @@ Here is a quick overview of the project's folders structure:
 
 ## Contributing
 
-1. Create a new Markdown file inside the `_guides` folder. You can duplicate the existing `_template.md` file for an existing model.
+1. Create a new Markdown file inside the `_guides` folder. You can duplicate the existing `_template.md` file.
 
 
 * `description`: A sensible description of the guide.
