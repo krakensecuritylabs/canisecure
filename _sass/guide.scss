@@ -43,11 +43,17 @@
 
 }
 
-
+.guide-inside {
+	max-width: 44rem;
+	margin: 0 auto;
+}
 
 .guide-title {
 	color: #eee;
 	font-size: 2rem;
+	border-left: 3px solid #fff;
+	padding-left: 1rem;
+	margin-left: -1rem;
 
 	a {
 		color: inherit;
@@ -401,10 +407,6 @@
 		padding: 2rem;
 	}
 
-	& > .data-notes {
-		border-bottom: 1px solid #3c3c3d;
-	}
-
 	@media only screen and (min-width: 64rem) {
 		display: flex;
 		flex-wrap: wrap;
@@ -441,6 +443,10 @@
 
 .data-notes .canisecure-list a {
 	text-decoration: underline;
+}
+
+ul.canisecure-list {
+	margin-left: 1rem;
 }
 
 .data-note {
