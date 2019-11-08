@@ -40,4 +40,4 @@ As with any application, you should also do the following:
 
 -   Remove your mobile phone number. With a SIM swapping attack, it might be possible for an attacker to get access to your Facebook account.
 -   Use two-factor authentication
--   Use a strong, unique password
+-   Use a [strong, unique password](/guides/passwords)
