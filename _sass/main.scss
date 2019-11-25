@@ -33,10 +33,17 @@ code {
 	width: 100%;
 	max-width: 80rem;
 	margin: 0 auto;
+
 }
 
 .canisecure-main {
 	flex: 1 0 auto;
+
+	a{
+		&:hover {
+		color: #6854db;
+		}
+	}
 }
 
 // Header navigation
@@ -285,7 +292,7 @@ code {
 
 		&:hover {
 			color: #6854db;
-			text-decoration: line-through;
+			text-decoration: bold;
 		}
 	}
 }
