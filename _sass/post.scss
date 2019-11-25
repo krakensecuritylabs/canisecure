@@ -7,6 +7,12 @@
 .post-inside {
 	max-width: 44rem;
 	margin: 0 auto;
+
+	a{
+		&:hover {
+		color: #6854db;
+		}
+	}
 }
 
 .post-date {
