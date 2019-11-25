@@ -175,12 +175,9 @@ class Search {
 						<header class="guide-header">
 							<div class="guide-header-column">
 								<h1 class="guide-title"><a href="${guide.url}">${guide.title}<span class="guide-permalink" aria-hidden="true">#</span></a></h1>
-								<div class="guide-description">
-									${guide.description}
-								</div>
 							</div>
 						</header>
-						<div class="data-details"></div>
+						<div class="guide-inside"></div>
 						<footer class="guide-footer"></footer>
 					</section>`;
 				container.appendChild(div.firstChild);
@@ -198,8 +195,8 @@ class Search {
 					if(guideContainer != null) {
 						guideContainer.classList.remove('guide--placeholder');
 						guideContainer.classList.remove('loading');
-						guideContainer.querySelector('.data-details').innerHTML = div.querySelector('.data-details').innerHTML;
-						guideContainer.querySelector('.guide-footer').innerHTML = div.querySelector('.guide-footer').innerHTML;
+						//guideContainer.querySelector('.guide-inside').innerHTML = div.querySelector('.guide-inside').innerHTML;
+						//guideContainer.querySelector('.guide-footer').innerHTML = div.querySelector('.guide-footer').innerHTML;
 					}
 				})
 				.catch(error => {
