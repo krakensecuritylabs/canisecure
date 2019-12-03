@@ -1,4 +1,4 @@
----
+
 title: "Travel Security"
 updated: "2019-10-28"
 category: "Personal"
@@ -26,6 +26,6 @@ category: "Personal"
 
 11. **Obey Local Laws**: The laws of the country you live in don't follow you when you travel. It is your responsibility to understand the local laws especially if they are stricter than your own country, particularly when it comes to drugs and alcohol consumption. Just like in your home country, if someone is offering goods or services, there is no guarantee that what they are offering is legal in the place you are visiting. There have been many cases of people traveling on business and getting arrested for activities that are 100% legal in their home country.
 
-Decline Propositions or Advances: Having someone make you feel interesting and/or attractive is hard to pass up. Be very aware that these random advances are a common way to lure someone into a bad situation. This occurrence happens to people on trips very often because it works and the criminals or folks in the espionage business are not going to stop using these techniques any time soon. One common vector is "blackmailing". The attacker, for example, can attempt to obtain photos of you in a very compromising position to then use as leverage for getting something in return, like your passwords or a transfer of funds. The best way to avoid this type of attack is to never engage in this activity while on a trip and to also be very aware of the reality of this in your everyday life.
+12. **Decline Propositions or Advances**: Having someone make you feel interesting and/or attractive is hard to pass up. Be very aware that these random advances are a common way to lure someone into a bad situation. This occurrence happens to people on trips very often because it works and the criminals or folks in the espionage business are not going to stop using these techniques any time soon. One common vector is "blackmailing". The attacker, for example, can attempt to obtain photos of you in a very compromising position to then use as leverage for getting something in return, like your passwords or a transfer of funds. The best way to avoid this type of attack is to never engage in this activity while on a trip and to also be very aware of the reality of this in your everyday life.
 
 *(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
