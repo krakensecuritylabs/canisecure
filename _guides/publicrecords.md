@@ -1,6 +1,6 @@
 ---
 title: "Public Records"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -48,4 +48,4 @@ The goal here is not to completely remove your records from all sources as that 
 
 Fun Fact: If you have a common name, you're in luck as there may be hundreds of listings that are not you within search results. Blending in and not sticking out plays as a security strength in the real world.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

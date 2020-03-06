@@ -101,4 +101,4 @@ Having someone make you feel interesting and/or attractive is hard to pass up.
 
 -   One common vector is "blackmailing". The attacker, for example, attempts to obtain photos of you in a very compromising position to then use as leverage for getting something in return, like your passwords or a transfer of funds. The best way to avoid this type of attack is to be wary of these situations.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

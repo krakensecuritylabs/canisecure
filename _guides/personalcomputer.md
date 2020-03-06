@@ -1,6 +1,6 @@
 ---
 title: "Personal Computer"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -32,4 +32,4 @@ You may also have a personal computer that you use for activities like online ba
 
 -   Add a physical layer of security by getting a Privacy Screen, camera cover and laptop lock that is compatible with your personal computer. Depending on your screen size, Privacy Screens will run your about $50-$100 dollars, a camera cover will be < $10 and a laptop lock will cost about $20. These are important if you are one who likes to change locations frequently and work from semi-public places.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

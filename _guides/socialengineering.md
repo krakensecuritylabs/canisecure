@@ -1,6 +1,6 @@
 ---
 title: "Social Engineering Protection"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -44,4 +44,4 @@ Watch Out for the Hook
 
 The final phase of a social engineering attack is called the "hook". The hook might be as small as finding out the name of your boss or their phone number. The hook could also be sending you an email and asking you to view an attachment. It might be getting you to perform an action that would never be permitted under any other circumstances except at this very moment - in your mind. When you combine all the items being thrown at you by the social engineer, it may seem acceptable and reasonable to think "just this one time". 
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

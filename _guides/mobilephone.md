@@ -1,6 +1,6 @@
 ---
 title: "Mobile Phone"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -112,4 +112,4 @@ How to respond if your number has been hijacked
 
 -   Later, check your bill and make sure you were not charged for any overage, toll calls or unauthorized charges after the attack.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

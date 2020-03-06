@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
-updated: "2019-11-07"
+updated: "2020-03-06"
 category: "Account Security"
 ---
 

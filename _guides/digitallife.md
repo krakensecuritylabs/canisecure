@@ -1,6 +1,6 @@
 ---
 title: "Digital Life"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -23,4 +23,4 @@ Your personal email is the gateway to most of your digital life. Important accou
 
 This is not optional. If you are reading this and know you have a weak password and/or do not have 2FA/MFA enabled, turn this on now. Stop reading this guide and make it happen.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

@@ -1,6 +1,6 @@
 ---
 title: "Cryptocurrency Wallet"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -34,4 +34,4 @@ What all wallets have in common is that much care should be taken with their sto
 
 Think long-term. As morbid as it may sound, make sure you are thinking long term when it comes to the location of your wallets and passwords. If these are not passed onto anyone when you are gone, there will be no way to access or recover your digital assets. Create and safekeep a back-up plan in the event that someone you trust needs to recover your funds.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

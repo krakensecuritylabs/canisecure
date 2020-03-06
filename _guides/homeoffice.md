@@ -1,6 +1,6 @@
 ---
 title: "Home Office"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -27,4 +27,4 @@ Below is a list of recommendations to secure your home office from potential att
 10. Utilize Cameras to Monitor Your Home: At the intersection of security and privacy, camera use in and around your home tends to be a gray area. If something like a break-in was to happen, having this footage recorded could be vital evidence. Not only might you be able to identify the perpetrator but also know exactly what they did when they were in your home. For example, if they were only after the wallet that was sitting on the kitchen counter and then left, that is a very different scenario than someone walking around your house, looking through files, plugging things into your computer and home network.\
     When choosing a home camera, you should be very careful of the provider and type you select. Follow strong account security guidelines (e.g., strong passwords, 2-factor, etc.) and update the devices frequently. If you fail to secure and support them in the correct way, a home camera can quickly become an invasion of privacy rather than a security tool. You should stay away from the ultra-cheap cloud cameras and consider the more robust and supported cameras like Nest or Ring. You may have to pay 10x more for the camera but with that comes peace of mind that they will take your security and privacy much more seriously than a $20 camera provider from Amazon.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*

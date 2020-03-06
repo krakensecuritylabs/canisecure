@@ -1,6 +1,6 @@
 ---
 title: "IoT Devices"
-updated: "2019-10-23"
+updated: "2020-03-06"
 category: "Personal"
 ---
 
@@ -14,4 +14,4 @@ Second, you should make sure that the passwords you have chosen are strong, not 
 
 Finally, pay close attention to any devices that can record audio and/or video. If you do not need the audio on a camera feed for example, turn it off.
 
-*(This guide is part of a [series on Personal Security](/news/2019-10-23-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
