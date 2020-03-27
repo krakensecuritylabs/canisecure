@@ -1,6 +1,6 @@
 ---
 title: "Google Account"
-updated: "2019-11-01"
+updated: "2020-03-27"
 category: "Account Security"
 links: {"Google: Make your account more secure":"https://support.google.com/accounts/answer/46526?hl=en"}
 ---
