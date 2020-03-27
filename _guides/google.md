@@ -37,3 +37,7 @@ You will most likely want to pause both [**Web & App Activity** and **Location H
 ## Sign in Settings
 Avoid saving passwords to your google account and using it as password manager. Avoid signing in with Google. Rely on a separate password manager instead.
 ![](/assets/images/googlepwm.png)
+
+
+## Consider Enrolling in Google's Advanced Protection Program
+The [Advanced Protection Program](https://landing.google.com/advancedprotection/) safeguards the personal Google Accounts of anyone at risk of targeted attacks – like journalists, activists, business leaders, and political campaign teams. It requires stronger 2FA authentication methods, gives better control of third-party data sharing, blocks unknown app installation and adds extra steps to verify your identity during the account recovery process.
