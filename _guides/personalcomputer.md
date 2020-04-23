@@ -20,7 +20,7 @@ You may also have a personal computer that you use for activities like online ba
 
 -   Install an ad blocker like uBlock Origin and browser privacy extension like Privacy Badger.
 
--   Install and use a password manager that can securely sync across your personal devices, for both mobile and desktop use, such as [Dashlane](https://www.dashlane.com/), [Lastpass](https://www.lastpass.com/) or [1Password](https://1password.com/). Ensure you have selected a very strong master password. 
+-   Install and use a password manager. Ideally, use a device local password manager like [KeePassXC](https://keepassxc.org/). If you (really?) need to securely sync across your personal devices, for both mobile and desktop use, try [Bitwarden](https://bitwarden.com/). Ensure you have selected a very strong master password.
 
 -   Use search engines like [DuckDuckGo](https://duckduckgo.com/) to limit the tracking of what you are doing.
 
