@@ -14,7 +14,7 @@ You may also have a personal computer that you use for activities like online ba
 
 -   Turn on the built-in Firewall.
 
--   Install and maintain a subscription of Antivirus software. If you are looking for a suggestion, give Bitdefender a try. It has been found to be inexpensive and effective.
+-   Use antivirus features that are built into your operating system (e.g., Windows Defender) and keep them updated. We haven't seen convincing evidence to think that third-party antivirus products provide significant advantages.
 
 -   Use a Chrome or Firefox for browsing and keep it up to date.
 
