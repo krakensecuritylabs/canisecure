@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-updated: "2019-11-01"
+updated: "2021-03-30"
 category: "Account Security"
 ---
 
@@ -10,9 +10,7 @@ As with everything, [make sure you use a strong password](/guides/passwords) for
 
 ### Use Two-Factor Authentication
 
-While not ideal, Twitter does not yet support using authorization apps such as Authenticator, Authy, or physical Yubikeys. In the meantime, the next best thing is "[login verification](https://twitter.com/settings/account/login_verification)" which prompts you for an SMS text message when logging in on a new device. While this doesn't protect against SIM swapping attacks, you can potentially decrease the likelihood of this happening if you register with a Google Voice number.
-
-![](/assets/images/twitterloginverification.png){:width="70%"}
+Twitter supports text message, authenticator app, and security key for two-factor authentication. [Configure your account](https://twitter.com/settings/account/login_verification) to use a security key or authenticator app if you can. It's possible for text message two-factor to be bypassed if combined with a SIM swap attack but it's still better than nothing if the other two options are not available to you.
 
 ### Delete your location
 
