@@ -1,17 +1,17 @@
 ---
 title: "Linkedin"
-updated: "2019-09-20"
+updated: "2021-08-23""
 category: "Account Security"
 ---
 
-Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* broadcasting that information to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups)
+If you haven't noticed, stealth is the new black. Don't make yourself a target through your LinkedIn profile by revealing more information than you need to just to get a little (or no) value from sharing it. This is especially true if you work in a field, like cryptocurrency, that attracts criminals. We highly recommend *against* broadcasting that you're into crypto and/or bragging in genereral to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups, for example - fly low and avoid showing up on any unwanted radar)
 
 Locking Down Your Account
 =========================
 
 Navigate to your account information to view your **LinkedIn Security & Privacy** settings:
 
-1.  Click the **Me** icon at the top of your LinkedIn homepage.
+1.  Click the **Me** icon at the top of your LinkedIn homepage.`
 2.  Select **Settings & Privacy** from the dropdown.
 3.  Click the **Account** tab at the top of the page. 
 
