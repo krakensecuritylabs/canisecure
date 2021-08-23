@@ -8,7 +8,7 @@ Stealth is the new black.
 Don't make yourself a target if you don't have to. 
 It's easy to attract the wrong kinds of attention. 
 It's easy to unintentionally do this using your LinkedIn profile, for example, by revealing more information than you need to just to get a little (or no) value from sharing it. 
-This is especially true if you work in an industry that attracts criminals, like financial technology companies. We highly recommend *against* broadcasting that you're into crypto and/or bragging in genereral to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups, for example). 
+This is especially true if you work in an industry that attracts criminals, like financial technology companies. We highly recommend *against* broadcasting that you're into crypto and/or bragging in general to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups, for example). 
 Instead, fly low and avoid showing up on any unwanted radar. 
 That's why this guide exists --> to help you reduce your attack surface while still gaining value from using a platform
 designed to connect people.
