@@ -1,6 +1,6 @@
 ---
 title: "Linkedin"
-updated: "2019-09-20"
+updated: "2021-08-23"
 category: "Account Security"
 ---
 
