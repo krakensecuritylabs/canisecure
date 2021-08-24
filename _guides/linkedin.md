@@ -1,6 +1,6 @@
 ---
 title: "Linkedin"
-updated: "2019-09-20"
+updated: "2021-04-04"
 category: "Account Security"
 ---
 
@@ -13,9 +13,9 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
 
 1.  Click the **Me** icon at the top of your LinkedIn homepage.
 2.  Select **Settings & Privacy** from the dropdown.
-3.  Click the **Account** tab at the top of the page. 
+3.  Click the **Sign in & Security** tab at the top of the page. 
 
-     Login and Security
+     Account Access
 
     -   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
     -   **Phone numbers** - This is unfortunately the only method of 2FA for LinkedIn, but you should make sure that the phone number has "Use for password reset" unchecked. Use a phone number that is NOT your mobile number like a Google Voice number. We will limit who can see this phone number or find you via it in a later section.
