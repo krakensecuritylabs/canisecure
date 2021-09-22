@@ -18,10 +18,10 @@ Navigate to your account information to view your **LinkedIn Security & Privacy
      Account Access
 
     -   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
-    -   **Phone numbers** - This is unfortunately the only method of 2FA for LinkedIn, but you should make sure that the phone number has "Use for password reset" unchecked. Use a phone number that is NOT your mobile number like a Google Voice number. We will limit who can see this phone number or find you via it in a later section.
+    -   **Phone numbers** - Remove any associated phone numbers. If a phone number is already used for 2FA you can change your 2FA settings to use an Authenticator App instead. Do not add a phone number for "Use for password reset".
     -   **Change Password** - Make sure this password is long, complex, and unique. If you haven't change this in a while, change it now.
     -   **Where you're signed in** - Review this and remove any session other than the one you are on. You will be asked to login again your other devices. This will clear any rogue session that may exist.
-    -   **Two-Step Verification** - Since you've turned off "Use for password reset" this is the best 2FA you are going to get with LinkedIn right now. Enable this to point to your Google Voice number.
+    -   **Two-Step Verification** - Enable this using an Authenticator App. Do not use a phone number.
 
      Site Preferences
 
