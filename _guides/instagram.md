@@ -1,7 +1,7 @@
 ---
 title: "Instagram"
-updated: "2020-09-04"
-category: "Social Media"
+updated: "2022-01-28"
+category: "Account Security"
 ---
 
 ## Consider removing your Full Name
