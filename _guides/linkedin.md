@@ -4,7 +4,7 @@ updated: "2022-02-03"
 category: "Account Security"
 ---
 
-Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* broadcasting that information to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups)
+Don't make yourself a target through your LinkedIn profile if you can avoid it. If you work in a higher-risk field, like cryptocurrency, consider not listing your location, employer, or specific job functions.
 
 ## Locking Down Your Account
 
@@ -25,7 +25,7 @@ Here you want to take a good look at the following settings:
 
 ### Visibility settings
 
-Your [Visibility settings](https://www.linkedin.com/psettings/data-visibility) have the most impact on your privacy: Here you can change who can see your e-mail address, your employer, and so on. We recommend to set most options here to "No", especially if your employer does not allow public disclosure of affiliation.
+Your [Visibility settings](https://www.linkedin.com/psettings/data-visibility) have the most impact on your privacy: Here you can change who can see your e-mail address, your employer, and so on. We recommend to set most options here to "No".
 
 ![](/assets/images/linkedin-visibility.png){:width="70%"}
 
