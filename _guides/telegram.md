@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-updated: "2019-11-08"
+updated: "2022-02-03"
 category: "Account Security"
 ---
 
@@ -29,3 +29,5 @@ iOS
 
 ### Privacy Settings
 In Settings > Privacy and Security, there are multiple bits of data that you can restrict those that can view it (e.g., your phone number, when you were last online, your profile photo). You should restrict all of these to either "Nobody" or "My contacts"
+
+![](/assets/images/telegram-privacy.png){:width="70%"}

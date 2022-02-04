@@ -1,22 +1,29 @@
 ---
 title: "Reddit"
-updated: "2019-11-08"
+updated: "2022-02-03"
 category: "Account Security"
 ---
 
 Remove Personalization
 ----------------------
 
-By default, Reddit personalizes its advertisements to your behavior. More concerningly, some of this content comes from third parties, such as tracking cookies or site widgets. If you have a Reddit account, you can opt out of all these options at [reddit.com/personalization](https://www.reddit.com/personalization/).
+By default, Reddit personalizes its advertisements to your behavior. More concerningly, some of this content comes from third parties, such as tracking cookies or site widgets. If you have a Reddit account, you can opt out of all these options at [reddit.com/personalization](https://www.reddit.com/settings/privacy).
 
 ![](/assets/images/reddit-personalization.png)
+
+Change your visibility
+-------------------------
+
+Reddit has settings to adjust who can follow you and what kind of data about you is shown on your profile. This can make it much easier to track you, but luckily you can disable a lot of functionality in your [account settings](https://www.reddit.com/settings/account).
+
+![](/assets/images/reddit-follow.png)
 
 Enable Two-Factor Authentication
 --------------------------------
 
 You might not think your Reddit account contains anything sensitive, but attackers regularly target Reddit accounts with leaked password lists in order to boost their submissions.
 
-To enable two-factor authentication, go to <https://reddit.com/prefs/update> and click on the bottom panel.
+To enable two-factor authentication, go to the bottom of <https://www.reddit.com/settings/privacy> and click on the bottom panel.
 
 ![](/assets/images/reddit-2fa.png)
 

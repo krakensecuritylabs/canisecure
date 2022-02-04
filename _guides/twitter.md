@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-updated: "2021-03-30"
+updated: "2022-02-03"
 category: "Account Security"
 ---
 
@@ -12,11 +12,19 @@ As with everything, [make sure you use a strong password](/guides/passwords) for
 
 Twitter supports text message, authenticator app, and security key for two-factor authentication. [Configure your account](https://twitter.com/settings/account/login_verification) to use a security key or authenticator app if you can. It's possible for text message two-factor to be bypassed if combined with a SIM swap attack but it's still better than nothing if the other two options are not available to you.
 
+![](/assets/images/twitter-2fa.png)
+
 ### Delete your location
 
 Sharing your location could allow someone to find your physical location. While that might not seem like a big deal at first, people have [reportedly been robbed based on the timing and location of their tweets](https://www.cnet.com/news/twitter-user-says-vacation-tweets-led-to-burglary/).
 
 ![](/assets/images/twitterlocationinfo.png){:width="70%"}
+
+### Review your session and account log-in history
+
+Regularly review the activity of your account and your active sessions to ensure that old devices do not have access anymore to your account:
+![](/assets/images/twitter-access.png)
+
 
 ### Remove or Limit Applications
 
@@ -28,4 +36,4 @@ Each time you connect Twitter with an application, you are increasing your attac
 
 To remove the sharing of personalized information to other parties such as 3rd party advertisters, go to "**Privacy and Safety**" and turn off everything under "**Personalization and Data**".
 
-![](/assets/images/twitterpersonalization.png){:width="70%"}
+![](/assets/images/twitter-personalized-ads.png)

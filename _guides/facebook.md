@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
-updated: "2020-03-06"
+updated: "2022-02-03"
 category: "Account Security"
 ---
 
@@ -20,21 +20,21 @@ Facebook doesn't have great defaults for your privacy. Here are some safe settin
 
 ![](/assets/images/facebook-privacy.png)
 
+## Privacy Checkup
+
+Facebook provides a [Privacy Checkup](https://www.facebook.com/privacy/checkup/) that provides a good overview on the information you share with others.
+
+![](/assets/images/facebook-privacy-checkup.png)
+
 ## Remove Apps
 
 You should not use Facebook to log into other sites. [Review and remove apps](https://www.facebook.com/settings?tab=applications) that you have given access to.
 
 ## Limit Ad Settings
 
-Limit the information that Facebook can use to show you ads.
+Limit the information that Facebook can use to show you ads in your [Ad Settings](https://www.facebook.com/adpreferences/ad_settings).
 
 ![](/assets/images/facebook-ads.png)
-
-## Disable Face Recognition
-
-Don't let Facebook [automatically recognize your face](https://www.facebook.com/settings?tab=facerec)
-
-![](/assets/images/facebook-facerecognition.png)
 
 As with any application, you should also do the following:
 

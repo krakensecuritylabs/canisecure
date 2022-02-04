@@ -1,134 +1,68 @@
 ---
 title: "Linkedin"
-updated: "2021-04-04"
+updated: "2022-02-03"
 category: "Account Security"
 ---
 
 Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* broadcasting that information to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups)
 
-Locking Down Your Account
-=========================
+## Locking Down Your Account
 
-Navigate to your account information to view your **LinkedIn Security & Privacy** settings:
+### Account access
 
-1.  Click the **Me** icon at the top of your LinkedIn homepage.
-2.  Select **Settings & Privacy** from the dropdown.
-3.  Click the **Sign in & Security** tab at the top of the page. 
+Navigate to [Sign in & Security -> Account access](https://www.linkedin.com/psettings/sign-in-and-security):
 
-     Account Access
+![](/assets/images/linkedin-account-access.png){:width="70%"}
 
-    -   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
-    -   **Phone numbers** - Remove any associated phone numbers. If a phone number is already used for 2FA you can change your 2FA settings to use an Authenticator App instead. Do not add a phone number for "Use for password reset".
-    -   **Change Password** - Make sure this password is long, complex, and unique. If you haven't change this in a while, change it now.
-    -   **Where you're signed in** - Review this and remove any session other than the one you are on. You will be asked to login again your other devices. This will clear any rogue session that may exist.
-    -   **Two-Step Verification** - Enable this using an Authenticator App. Do not use a phone number.
+Here you want to take a good look at the following settings:
 
-     Site Preferences
+-   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
+-   **Phone numbers** - Remove any associated phone numbers. If a phone number is already used for 2FA you can change your 2FA settings to use an Authenticator App instead. Do not add a phone number for "Use for password reset".
+-   **Change Password** - Make sure this password is long, complex, and unique. If you haven't change this in a while, change it now.
+-   **Where you're signed in** - Review this and remove any session other than the one you are on. You will be asked to login again your other devices. This will clear any rogue session that may exist.
+-   **Two-Step Verification** - Enable this using an Authenticator App. Do not use a phone number.
 
-    -   **Language** - Choose your favorite language.
-    -   **Autoplay Videos** - Turn this off in the event there is some video-based exploit in the future.
-    -   **Showing Profile Photos** - You can leave this on for "Everyone".
-    -   **Feed preferences** - You can leave this alone unless you want to customize who you follow and see updates from.
-    -   **Name, Location, Industry** - Pay attention here. This is where a lot of the privacy information comes from within LinkedIn.
 
-        -   Your headline leaks where you currently work. Consider changing this to "YOUR_ROLE at Undisclosed" if you work somewhere that might put you at a higher risk.
-        -   Current position maps to what your current position is in your profile. Leave this as-is for now and we will customize it later.
-        -   Uncheck "Show education in my intro".
-        -   Country/Region - You can leave this as-is or change to something fake.
-        -   Zip Code - Remove this if there is anything there.
-        -   Industry - Select something other than Financial Services, Banking, etc.
-        -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
-        -   Summary - This is your Bio. Consider against leaking sensitive info that might make you a target.
-        -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any other sensitive info).
-        -   Click "Save".
+### Visibility settings
 
-     Subscriptions and Payments
+Your [Visibility settings](https://www.linkedin.com/psettings/data-visibility) have the most impact on your privacy: Here you can change who can see your e-mail address, your employer, and so on. We recommend to set most options here to "No", especially if your employer does not allow public disclosure of affiliation.
 
-    -   **Upgrade for Free** - Don't ever do this. Don't ever do this. 
-    -   **View Purchase History** - Don't need to modify.
+![](/assets/images/linkedin-visibility.png){:width="70%"}
 
-     Partners and Services
+### Site preferences
 
-    -   **Microsoft** - If you have anything connected here, delete it.
-    -   **Permitted Services** - If you have any connected here, delete it.
-    -   **Twitter Settings** - Remove your Twitter account from here.
+LinkedIn allows you to change a lot of content settings in your [Site preferences](https://www.linkedin.com/psettings/account-preferences)
 
-     Account Management
+![](/assets/images/linkedin-site-preferences.png){:width="70%"}
 
-4.  Click the **Privacy** tab at the top of the page.
+Here you want to specifically look at:
+-   **Autoplay Videos** - Turn this off in the event there is some video-based exploit in the future.
+-   **Name, Location, Industry** - Pay attention here. This is where a lot of the privacy information comes from within LinkedIn.
 
-     How others see your profile and network information
+    -   Your headline leaks where you currently work. Consider changing this to "YOUR_ROLE at Undisclosed" if you work somewhere that might put you at a higher risk.
+    -   Current position maps to what your current position is in your profile. Leave this as-is for now and we will customize it later.
+    -   Uncheck "Show education in my intro".
+    -   Country/Region - You can leave this as-is or change to something fake.
+    -   Zip Code - Remove this if there is anything there.
+    -   Industry - Select something other than Financial Services, Banking, etc.
+    -   Contact Info - click the "pencil" icon and clear out anything sensitive. Your email there is the email that you login with and we'll secure that later in this exercise. Click Apply when done. Scroll back down to "Summary"
+    -   Summary - This is your Bio. Consider against leaking sensitive info that might make you a target.
+    -   Media - Click the "pencil" to remove anything that might make you a target (e.g., your workplace or any other sensitive info).
+    -   Click "Save".
 
-    -   Review Settings under **Edit Your Profile**. The most important piece here is to restrict the visibility of your profile. The less publicly visible, the better. Configure the settings for the following fields:
-        -   **Your Profiles Public Visibility** - This is recommended to be turned "Off".
-        -   If you don't want to go that far or can't for business reasons make the following changes to the radio buttons below:
-            -   Profile Photos - Set to your connections only.
-            -   Headline - Show (Consider against mentioning sensitive info) 
-            -   Websites - Hide
-            -   Summary - Show (Consider against mentioning sensitive info)
-            -   Posts & Activities - Hide
-            -   Current Experience - Hide (Consider against mentioning sensitive info)
-            -   Past Experience - Hide
-            -   Education - Hide
-            -   Volunteer Experiences - Hide
-            -   Projects - Hide
-            -   Publications - Hide
-            -   Courses - Hide
-            -   Honor and Awards - Hide
-            -   Languages - Hide
-            -   Organizations - Hide
-            -   Groups - Hide
-            -   Recommendations - Hide
 
-    -   Click **Back to LinkedIn** at the top right.
+### Partners & services
 
-    -   Disable **Who Can See Your Email Address**. Make your email address only visible to you and ensure the setting to allow your connections to download your email in their data export is set to "No".
-    -   Set "Only You" for the option of **Who Can See Your Connections**. If a hacker is trying to target you, they'll do that either directly or through one of your connections. Similarly, if a hacker is trying to target someone else or a company, they'll do that either directly or through a connection, which could be you. Minimizing who can see your connections will make this step of the attack harder.
-    -   **Viewers of this profile also viewed **- Change this to "No" this might tip someone off of others who work with you at your workplace even if their profile is sanitized.
-    -   Minimize **Who Can See Your Last Name** settings to be abbreviated to just the first letter of your last name.
-    -   **Representing your organization and interests** - Set this to "No"
-    -   Disable **Profile visibility off LinkedIn**.
-    -   **Microsoft Word** - Change this to "No". 
+You should take a good look at the settings here: Do you really need your Microsoft account linked with your LinkedIn account? Does LinkedIn need to be connected to your Twitter account?
 
-     How others see your LinkedIn activity
+![](/assets/images/linkedin-partners.png){:width="70%"}
 
-    -   **Profile viewing options** - turn on private mode
-    -   **Manage active status** - set to "No One"
-    -   **Share job changes** - No
-    -   **Notify connections when you're in the new** - No
-    -   **Mentions or tags by others** - Set to "No" someone else could leak your work by tagging you in an article or related message
+There is also a second setting for Permitted services hidden in the [Data Privacy](https://www.linkedin.com/psettings/data-privacy) page, where you should review whether your Permitted services are really needed:
 
-     How LinkedIn uses your data
+![](/assets/images/linkedin-permitted-services.png){:width="70%"}
 
-    -   Review the** Manage your data and activity** log to see the security settings you've enabled over the course of having your account.
-    -   Disable both the settings allowing people to discover you through phone and email.
-    -   Disable syncing with your calendars and contact lists.
+### Advertising preferences
 
-     Blocking and Hiding
+On the [Advertising Preferences](https://www.linkedin.com/psettings/advertising-data) panel you can change what data is used to provide ads to you. In the interest of privacy we recommend to set everything to "Off" on this site.
 
-    -   Under** Followers** you can review who is allowed to follow you. As an added layer of security, you should only allowing connections to be followers. If you grant wide open following access to everyone, this will allow people outside your network to follow your public updates.
-
-5.  Click the **Ads** tab at the top of the page. 
-
-     Ads
-
-    -   **Ads** - Set everything to "No" or uncheck all items on this tab.
-
-6.  Click the **Communications** tab at the top of the page. 
-
-     Notifications by channel
-
-    -   **On LinkedIn - **turn off items that you don't want to be bothered about
-    -   **Email -** recommended you turn all of these off
-    -   **Push -** recommended you turn all of these off
-
-     Who can reach you
-
-    -   **Connection Request - **This really needs more settings but you need leave this open if you ever want to get connection requests. If not, change this to "Only people who appear in your "Imported Contacts" list and **never import any contacts.**
-    -   **Messages** - Turn both these settings off.
-    -   **Research Invites **- Change to "No".
-
-     Messaging experience
-
-    -   **Read receipts and typing indicator** - Change to "off".
-    -   **Reply suggestions** - Change to "off".
+![](/assets/images/linkedin-ads.png){:width="70%"}
