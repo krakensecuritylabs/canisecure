@@ -10,7 +10,7 @@ In this article you will learn how to improve the security and privacy of your S
 
 ### Authentication
 
-Strava does currently provide no support for two-factor authentication. This makes it even more important to ensure that you use a password that you are using *nowhere* else. For more information on how to manage your passwords, [read the password guidelines.](/guides/passwords/).
+Strava does not currently support two-factor authentication. This makes it even more important to ensure that you use a password that you are using *nowhere* else. For more information on how to manage your passwords, [read the password guidelines.](/guides/passwords/).
 
 ### Privacy Controls
 
