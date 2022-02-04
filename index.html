@@ -21,13 +21,4 @@ layout: default
 		</ol>
 		<a href="/guides/" class="guide-button">View all guides</a>
 	</div>
-	<div class="canisecure-block">
-		<h1 class="canisecure-list-title"><a href="/news/">Latest news</a></h1>
-		<ul class="canisecure-list">
-			{% for post in site.posts limit:5 %}
-			<li><a href="{{ post.url }}">{{ post.title | markdownify | strip_html | strip }}</a>, {{ post.date | date: '%B %d, %Y' }}</li>
-			{% endfor %}
-		</ul>
-		<a href="/news/" class="guide-button">View all news</a>
-	</div>
 </div>
