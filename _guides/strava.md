@@ -1,6 +1,6 @@
 ---
 title: "Strava"
-updated: "2022-02-03"
+updated: "2022-02-04"
 category: "Account Security"
 ---
 
@@ -20,7 +20,7 @@ In the Strava "Privacy Controls" settings you can change who can see your activi
 
 ### Map visibility
 
-Further down in the Privacy Controls you can set your *Map Vsibility*. This is a really important setting: It allows you do obfuscate the starting point of your activities, and ensures that - even if your activites are public - no one can gain your exact address from your Strava activities.
+Further down in the Privacy Controls you can set your *Map Visibility*. This is a really important setting: It allows you do obfuscate the starting point of your activities, and ensures that - even if your activites are public - no one can gain your exact address from your Strava activities.
 
 ![](/assets/images/strava_map_visibility.png)
 
