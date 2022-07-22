@@ -1,6 +1,6 @@
 ---
 title: "Strava"
-updated: "2022-02-03"
+updated: "2022-02-04"
 category: "Account Security"
 ---
 
@@ -10,7 +10,7 @@ In this article you will learn how to improve the security and privacy of your S
 
 ### Authentication
 
-Strava does currently provide no support for two-factor authentication. This makes it even more important to ensure that you use a password that you are using *nowhere* else. For more information on how to manage your passwords, [read the password guidelines.](/guides/passwords/).
+Strava does not currently support two-factor authentication. This makes it even more important to ensure that you use a password that you are using *nowhere* else. For more information on how to manage your passwords, [read the password guidelines.](/guides/passwords/).
 
 ### Privacy Controls
 
@@ -20,7 +20,7 @@ In the Strava "Privacy Controls" settings you can change who can see your activi
 
 ### Map visibility
 
-Further down in the Privacy Controls you can set your *Map Vsibility*. This is a really important setting: It allows you do obfuscate the starting point of your activities, and ensures that - even if your activites are public - no one can gain your exact address from your Strava activities.
+Further down in the Privacy Controls you can set your *Map Visibility*. This is a really important setting: It allows you do obfuscate the starting point of your activities, and ensures that - even if your activites are public - no one can gain your exact address from your Strava activities.
 
 ![](/assets/images/strava_map_visibility.png)
 
