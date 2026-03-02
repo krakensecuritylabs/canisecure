@@ -1,104 +1,151 @@
 ---
 title: "Travel Security"
-updated: "2020-01-10"
+updated: "2026-03-02"
 category: "Personal"
+links: {"US State Dept Travel Advisories":"https://travel.state.gov/content/travel/en/international-travel.html","UK Foreign Travel Advice":"https://www.gov.uk/foreign-travel-advice","STEP Program":"https://step.state.gov/step","CDC Travel Health":"https://wwwnc.cdc.gov/travel","CBP Device Search Policy":"https://www.cbp.gov/travel/cbp-search-authority/border-search-electronic-devices","EFF Border Search Guide":"https://www.eff.org/issues/border-searches"}
 ---
 
-**Understand the Risks**
--   Review recent alerts and travel advice about your destination by visiting <https://travel.state.gov/content/travel/en/international-travel.html> and/or <https://www.gov.uk/foreign-travel-advice>
+Travel — especially international travel — introduces security risks that do not exist in your normal day-to-day life. You are in unfamiliar environments, connected to unfamiliar networks, potentially carrying sensitive data across borders, and surrounded by people who know you are a visitor. A little preparation goes a long way.
 
--   If you are a U.S. citizen, consider enrolling in the [STEP Program](https://step.state.gov/step) prior to any trip; this will enroll you to the nearest U.S. Embassy or Consulate at your destination in the case of any emergencies.
+## Before You Leave
 
-**Have the Correct Visas and Check Your Passport**
+### Research Your Destination
 
--   Find out if a passport or visa is required for any of your destinations (in most cases it will be if you are traveling outside your country)
+Review recent alerts and travel advice before booking or departing. The [US State Department](https://travel.state.gov/content/travel/en/international-travel.html) and the [UK Foreign Travel Advice](https://www.gov.uk/foreign-travel-advice) site provide country-by-country safety assessments, entry requirements, and current warnings.
 
--   Your passport should be valid for at least 6 months beyond your return date and have at least two blank pages left (more if visiting multiple countries)
+If you are a US citizen, enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step) before any international trip. STEP registers you with the nearest US Embassy or Consulate at your destination so they can assist you in an emergency or notify you of safety conditions.
 
--   Getting a new passport takes time (6-8 weeks in the U.S.), though expedited service may be available for an extra fee
+### Passports and Visas
 
--   Most countries require visas for longer stays, even if they are visa-free or offer visa on arrival for shorter stays
+Your passport should be valid for at least six months beyond your return date and have at least two blank pages remaining (more if visiting multiple countries). US passport renewals currently take 6–8 weeks for routine processing, though expedited service is available for an additional fee.
 
--   Visa requirements depend on your passport (e.g. requirements will likely be different for U.S. vs Philippines passport)
+Determine whether your destination requires a visa. Tourist and business visas have different rules — never travel for business on a tourist visa. Getting caught with the wrong visa can result in fines, deportation, and multi-year or lifetime entry bans. In some cases, even a connecting flight through a country requires a transit visa, especially for long layovers or if your baggage is not checked through.
 
--   In some cases a transit visa is required to pass through an airport for a connecting flight, especially for long layovers, or if your baggage is not checked through (you have to claim your baggage and check in for the next flight)
+Visa applications can be time-consuming. Services like [A Briggs](https://abriggs.com/) or [CIBT](https://cibtvisas.com/) can manage the process for you, though they charge a premium.
 
--   The most common types of visas are tourist and business visas, each with a different number of entrance frequency and duration limits. Don't travel for business on a tourist visa. Getting caught with the wrong visa could cost you a significant fine, deportation, and potentially even getting barred from entering the country for several years (or life).
+### Health and Insurance
 
--   The visa application process can sometimes take a lot of work and time. Consider using a service such as [A Briggs](https://abriggs.com/) to manage the process for you, though this may cost twice as much.
+Some countries require specific vaccinations for entry. Even if not required, get any recommended vaccines for your destinations — check the [CDC Travelers' Health](https://wwwnc.cdc.gov/travel) page and consult your doctor.
 
-**Stay Healthy**
+If you travel with prescription medication, carry it in its original labeled packaging with a copy of your prescription. Some medications that are legal in your home country may be controlled or banned elsewhere — verify before you travel.
 
--   Some countries require certain vaccines, Even if not required, you should get any recommended vaccines for your destinations. Check with your doctor.
+Get travel health insurance. Your domestic health insurance may not cover you abroad, and even if it does, you may need to pay upfront and seek reimbursement later. Travel insurance that includes medical evacuation coverage is worth considering for remote destinations.
 
--   Review this [CDC guidance](https://www.cdc.gov/features/travel-medicine/index.html) if you are traveling with medicine (prescription or over the counter)
+### Emergency Preparation
 
--   Consider getting travel health insurance for your trip. Check with your normal insurance provider to see if you will be covered while traveling. Even if you are covered, you may need to pay any medical bills and seek reimbursement after returning home (meaning that without travel insurance you could incur large out of pocket expenses during your trip).
+Know how to contact the local embassy or consulate at your destination. Some countries, like Thailand, have dedicated tourist police who may be more helpful than regular officers — have their number ready.
 
-**Plan Ahead for Emergencies**
+Program emergency contacts into your phone and also carry a physical copy in case your phone is lost, stolen, or seized. Keep a photocopy or secure digital copy of your passport's information page separate from the physical passport.
 
--   Know how to contact the local embassy or consulate where you will be traveling.
+Make a detailed itinerary and share it only with trusted family or friends. Do not post travel plans publicly on social media.
 
--   Some countries, like Thailand, have "tourist" police who may be more helpful than regular officers. Have their number handy.
+## Digital Security While Traveling
 
--   Program emergency contacts into your phone, but also have a physical copy in case you lose your phone. Consider also carrying an image of your passport in case you lose your physical passport.
+### Prepare Your Devices Before You Leave
 
--   Make a detailed itinerary and share it only with your most trusted family or friends. Do not share publicly.
+**Minimize what you carry.** Travel with as few devices as possible. If your trip involves crossing borders where device searches are a concern, consider traveling with a clean "travel phone" or "travel laptop" that contains only what you need for the trip — no personal photos, no saved passwords, no sensitive documents.
 
-**Dress Like a College Student**
+**Back up everything.** Before you leave, back up all device data to an encrypted local drive or a trusted cloud service. If a device is lost, stolen, or seized, your data will still be safely accessible elsewhere.
 
-We often think about profiling that takes place by law enforcement and border crossing agents, but criminals also profile as well. Why would they risk everything to attempt to rob someone who has nothing to offer them?
+**Update everything.** Ensure your operating system, browser, and all apps are fully updated before departing. Updates often contain critical security patches.
 
--   Avoid expensive clothing, jewelry, and luggage. You don't want to stand out to thieves or scammers.
+**Enable full-disk encryption.** FileVault (macOS), BitLocker (Windows), and native encryption on iOS and Android protect your data if a device is physically accessed. See the Personal Computer guide for setup instructions.
 
--   Consider toning back your style in other ways as well -- clothing with bold images, crude language, or revealing a lot of skin may attract unwanted attention or come off as rude, offensive, or arrogant.
+**Enable remote wipe.** Make sure Find My iPhone (Apple), Find My Device (Android/Google), or Find My Device (Windows) is enabled so you can remotely locate or erase a lost or stolen device.
 
--   Try to blend in. Go for the (conservative) college student look.
+### Border Crossings and Device Searches
 
-**Don't Lie**
+At international borders — including when returning to your own country — border agents in many countries have broad authority to search electronic devices without a warrant. In the US, CBP searched over 55,000 electronic devices in fiscal year 2025, and that number is expected to rise.
 
-When traveling, you may to be questioned (or even searched and detained) by airport security, immigration officers or police.
+**What to know about US border searches (CBP Directive 3340-049B, January 2026):**
 
--   Lying to government officials could get you deported or put into jail
+- CBP can conduct a "basic search" (manual review of accessible content) without any suspicion. An "advanced search" (connecting your device to external equipment) requires reasonable suspicion and supervisory approval.
+- Cloud-only data (content not stored on the device) cannot be intentionally accessed. Agents should request that you disable network connectivity (airplane mode) before a search.
+- Devices may be detained for up to 5 days (extendable to 15 with supervisory approval). CBP must delete copied data within 21 days unless probable cause exists to retain it.
+- Special protections apply to attorney-client materials, journalistic content, medical records, and trade secrets — though enforcement of these protections varies.
+- US citizens cannot be denied entry for refusing to provide a password. However, you may face extended detention and your device may be seized.
+- Non-citizens face greater risk: refusing to unlock a device could result in being denied entry.
 
--   Consider responding to direct questions with specific and concise information. Don't offer extra information unless asked.
+**Practical steps for border crossings:**
 
--   If at any time you come across as being rude or bothered by their questioning or uncooperative, you should expect a bad situation and severe delays in your trip. Always be polite, kind and thank them when they let you pass.
+- Power off devices completely before approaching a border checkpoint. Many phones have stronger encryption protections when fully powered off versus locked.
+- Use a strong alphanumeric passphrase rather than biometrics (fingerprint or face) to lock your devices. In some jurisdictions, authorities can compel biometric unlock but not password disclosure.
+- Log out of sensitive apps and remove any apps you do not need for your trip. You can reinstall them after clearing the border.
+- If you have sensitive work data, consult your employer about whether to travel with a clean device and access work resources remotely once at your destination.
+- Disable biometric unlock before reaching a border checkpoint: on iPhone, press and hold the side button and either volume button to trigger the "slide to power off" screen, then cancel — this temporarily disables Face ID/Touch ID and requires your passcode.
 
-**Bring Only One Computer**
+### Public Wi-Fi and Network Security
 
-There is really no great explanation for this, but traveling with more than one computer, especially 3, is a trigger point for travel security personnel and you should expect a secondary search or delays. If you can avoid it, only bring one computer with you when you travel.
+Public Wi-Fi at airports, hotels, cafés, and conference centers is inherently untrustworthy. "Evil twin" attacks — where an attacker creates a fake Wi-Fi network with the same name as the legitimate one — are well-documented. In 2024, an individual was arrested in Australia for running evil twin networks at multiple airports to steal traveler credentials.
 
-**Use a VPN**
+**Protect yourself:**
 
--   The time to use a VPN is when you are traveling, especially if you will be connecting via hotel or free Wi-Fi services. In general, "free" Internet is NOT safe but if you have no choice, then connecting and firing up a VPN is the best way to mitigate risks that do exist.
+- **Always use a VPN** when connected to any network you do not control. Recommended providers include Mullvad, ProtonVPN, and IVPN. Install and configure your VPN before you leave home.
+- **Use your phone's mobile hotspot** instead of public Wi-Fi whenever possible. This uses your cellular connection, which is significantly more secure.
+- **Use a travel eSIM** for data connectivity abroad. eSIMs are more secure than physical SIM cards (they cannot be removed if your phone is stolen), and they provide reliable cellular data that reduces your dependence on public Wi-Fi. Install the eSIM before you fly so you have connectivity the moment you land. Providers like Airalo, Nomad, and Holafly offer affordable plans for most countries.
+- **Turn off auto-connect** for Wi-Fi and Bluetooth. Your device may automatically join networks it has seen before — or networks with similar names.
+- **If you see a TLS/SSL certificate error** while connected to any network, do not click through. Disconnect immediately. Certificate errors can indicate a man-in-the-middle attack.
+- **Disable file sharing and AirDrop** (or set AirDrop to "Contacts Only") while in public.
 
--   If you see TLS/SSL certificate errors while connected, this is a sign that something bad is happening and you should not "click through" to continue. Connect somewhere else.
+### Charging on the Go
 
-**Don't Trust Hotels**
+"Juice jacking" — the idea that public USB charging stations can install malware on your device — has received significant media attention, but there are no confirmed real-world cases of this attack being used against travelers. Modern smartphones also require explicit user consent before allowing data transfer over USB. In practice, this is not a threat you need to worry about.
 
-Thieves and hotel staff may enter your room without your knowledge.
+That said, if you want peace of mind, the precautions are simple and cost nothing:
 
--   Many hotel room safes have publicly known bypass methods, and any thief who knows the bypass method will check the safe first. Depending on your location, you may want to consider carrying your valuables on you or strategically hiding them in your room.
+- Carry your own AC wall charger and cable so you can plug into a standard power outlet instead of a USB port.
+- Carry a portable battery pack (power bank) for charging on the go.
+- A USB data blocker (sometimes called a "USB condom") is an inexpensive adapter that allows power through but blocks data transfer, if you prefer an extra layer of caution.
 
--   If you carry valuables, consider buying a secure backpack
+## Physical Security
 
--   Some less ethical owners may place hidden cameras or microphones within your room. Don't treat your hotel room as a completely private area. Assume the room is bugged and act accordingly.
+### Blend In
 
--   Like hotel safes, there are known bypass methods to most hotel room locks. When you're in the room, add an extra layer of security by using a door lock (e.g., [Addalock](https://addalock.com/))
+Criminals profile tourists just as effectively as anyone. Avoid standing out as a target.
 
-**Know and Obey Local Laws**
+- Avoid expensive clothing, jewelry, watches, and luggage. Keep a low profile.
+- Be mindful of local dress norms — clothing with bold images, crude language, or revealing cuts may attract unwanted attention or be considered disrespectful.
+- Do not display large amounts of cash.
+- Keep your phone, wallet, and passport in front or interior pockets rather than back pockets or open bags.
 
--   It is your responsibility to understand the local laws especially if they are stricter than your own country, particularly when it comes to drugs and alcohol consumption.
+### Hotel Security
 
--   There have been many cases of travelers being arrested for things that are entirely legal in their home country
+Do not treat your hotel room as a completely private or secure space.
 
-**Decline Propositions or Advances**
+- **Room safes** have publicly known bypass methods. Any experienced thief will check the safe first. Depending on your location and risk level, consider carrying your most critical valuables on your person or strategically concealing them in your room rather than relying on the safe.
+- **Room locks** also have known bypass methods. When inside your room, add a secondary lock such as a portable door lock (like [Addalock](https://addalock.com/)) or a rubber door stop.
+- **Hidden cameras** are a real concern in some locations — particularly in short-term rentals (Airbnb, etc.). Search for small lenses near the bed and bathroom, check smoke detectors and alarm clocks, and look for devices with small indicator lights. Apps that detect infrared lights can help identify hidden cameras in dark rooms.
+- **Do not leave sensitive documents or devices** unattended in your room. Use a "do not disturb" sign when you leave to discourage casual entry. If your laptop stays in the room, power it off completely (do not just close the lid) so that full-disk encryption is active.
 
-Having someone make you feel interesting and/or attractive is hard to pass up.
+### Scams and Social Engineering
 
--   Be very aware that these random advances are a common way to lure victims into a bad situation. These techniques happen to people on trips very often because they work.
+Travelers are prime targets for social engineering because they are in unfamiliar environments and may be more willing to trust strangers for help.
 
--   One common vector is "blackmailing". The attacker, for example, attempts to obtain photos of you in a very compromising position to then use as leverage for getting something in return, like your passwords or a transfer of funds. The best way to avoid this type of attack is to be wary of these situations.
+- **Decline unsolicited propositions or romantic advances.** These are a common way to lure victims into compromising situations. "Honeypot" and blackmail schemes — where an attacker obtains compromising photos to use as leverage — remain highly effective against travelers.
+- **Be cautious with strangers who approach you** with overly friendly offers of help, tours, rides, or deals. Verify recommendations independently.
+- **Watch for common street scams:** fake petitions, the "found ring" scam, taxi meter manipulation, fake police demanding to see your wallet, and distraction techniques (someone bumps into you while an accomplice picks your pocket).
+- **Never hand your phone or wallet to a stranger,** even if they ask to show you something or claim to need it briefly.
 
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
+## Interactions with Authorities
+
+When traveling, you may be questioned, searched, or detained by airport security, immigration officers, or police.
+
+- **Do not lie to government officials.** Lying can result in deportation, jail time, or permanent entry bans.
+- **Answer direct questions with specific, concise information.** Do not volunteer extra details unless asked.
+- **Be polite and cooperative,** even if the process feels intrusive or unreasonable. Appearing rude, impatient, or uncooperative will escalate the situation and cause significant delays.
+- **Know and obey local laws.** It is your responsibility to understand laws at your destination, especially regarding drugs, alcohol, photography of government buildings, and public behavior. Many travelers have been arrested for actions that are perfectly legal in their home country.
+- **Bringing multiple laptops** (especially three or more) is a known trigger for secondary screening. If possible, travel with one computer.
+
+## Quick-Start Travel Checklist
+
+1. Check travel advisories and enroll in STEP (US citizens)
+2. Verify passport validity (6+ months beyond return) and obtain necessary visas
+3. Get recommended vaccinations and arrange travel health insurance
+4. Back up all device data, then remove anything sensitive you do not need for the trip
+5. Update all devices and enable full-disk encryption
+6. Install a VPN and a travel eSIM before departure
+7. Enable Find My / remote wipe on all devices
+8. Pack your own charger, cable, and a portable battery pack
+9. Share your itinerary with a trusted contact (not publicly)
+10. Carry photocopies of your passport and emergency contacts separately from originals
+11. Disable biometric unlock before approaching any border checkpoint
