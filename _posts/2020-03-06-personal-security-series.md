@@ -1,6 +1,6 @@
 ---
 title:  "Personal Security series"
-date: 2020-03-06
+date: 2026-03-02
 ---
 
 We just added a series of guides on personal security and privacy best practices. This topic could spawn 100s of guides and take dozens of hours to read, think about and perform all of the possible precautions. The intent here is to strike the right balance of security/usability and give some reasonable tips that should be followed by the majority of people to protect themselves.
