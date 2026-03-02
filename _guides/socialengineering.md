@@ -1,47 +1,162 @@
 ---
 title: "Social Engineering Protection"
-updated: "2020-03-06"
+updated: "2026-03-02"
 category: "Personal"
+links: {"FBI IC3 Reporting":"https://www.ic3.gov","FTC Report Fraud":"https://reportfraud.ftc.gov","Have I Been Pwned":"https://haveibeenpwned.com","US Secret Service - Pig Butchering":"https://www.secretservice.gov/investigations/investmentfraud-pigbutchering"}
 ---
 
-Social engineering is one of the most effective ways to gain access to information. It is way simpler and often far more effective than hands-on technical hacking. 
+Social engineering is one of the most effective ways to gain access to information, accounts, or money. It relies on manipulating human behavior rather than exploiting technical vulnerabilities — and it works. In 2025, social engineering remains the number-one attack strategy, and AI tools have made these attacks dramatically more convincing, personalized, and harder to detect.
 
-You should be vigilant and attentive to the activities that are happening around you. Most social engineering attacks happen because you are trying to be as accommodating as possible to some form of "urgent" or "highly important" request by the attacker.
+Understanding how social engineering works is your best defense. The tactics below are used against individuals and organizations alike, and they are evolving rapidly.
 
-Be Mindful of Surprises
------------------------
+## The Psychology of Social Engineering
 
-The goal of a social engineering attacker is to have you give them the advantage as quickly as possible. They will work to play on your emotions and use those emotions to get you to "bend" a policy or sidestep a process for them. They will also often develop a backstory to make you believe you are not the first person they've communicated with. For example, you could be contacted by a customer who claims they have been working with one of your co-workers or that knows one of your neighbords. They may even name drop and support the validity of their acquaintance with your coworker by mentioning a detail seemingly only someone who knows this coworker would know, such as a recent life event. 
+Every social engineering attack exploits one or more psychological levers. Recognizing these patterns is the single most important skill you can develop.
 
-Next, they may tell you that they too have had a recent life event (such as a new baby, or a family death) and say it in such a way that will play to your emotions and justify discounting their ability to be delayed by the normal process you would follow to fulfill their request. 
+### Urgency and Pressure
 
-These requests could come to you in the form of an email, a phone call, a live chat or a text message. The social engineer's goal is to get to someone who will listen to them and then follow instructions towards the social engineer's desired outcome. 
+The attacker's most reliable tool is urgency. They need you to act before you have time to think critically. Common tactics include artificial deadlines ("your account will be locked in 30 minutes"), claims that others will be harmed if you do not act immediately, and framing the situation so that any delay seems irresponsible.
 
-Anytime someone drops a name of a coworker or acquaintance, you should **always** validate this with the person whose name they dropped. If your contact does not know who this person is, there is a good chance this is a scam or some social engineering technique is being used against you. 
+**Your defense:** Legitimate organizations will never punish you for taking time to verify a request. If someone is pressuring you to act immediately, that pressure itself is a red flag. Slow down.
 
-Tune into the Sense of Urgency
-------------------------------
+### Authority and Trust
 
-While you are talking with anyone, tune in to the sense of urgency they are portraying. Very often, once a social engineer has obtained credibility with you with regards to their backstory, they will then attempt to impart a sense of urgency. They know that once they have sold you on why they are asking you to help them, they will not have much time before you begin to second guess their intentions. This means they need to inject a sense of urgency to get you to act before your sense of awareness kicks in. 
+Attackers impersonate people or organizations you trust — your boss, your bank, a government agency, a coworker, a friend, or a company you do business with. They may reference real details about your life, your workplace, or recent events to build credibility.
 
-Another technique social engineers will utilize involves creating artificial deadlines that will also play on your emotions. They will pull other people into the situation to make it seem as if it is not about them but about others being harmed if **you** don't act quickly to help them. 
+**Your defense:** Never trust the identity of someone based solely on what they tell you. Verify independently by contacting the person or organization through a known, trusted channel (not a phone number or link provided by the requester).
 
-Remember: Stay calm and focus on weeding through the complexities that have been tossed at you in this situation. Consider the relevance of how those details weigh on the actions being asked of you. 
+### Emotional Manipulation
 
-While unfortunate, the fact that the person contacting you just had their father pass away should have zero impact on the decisions you make or information that you provide.
+Attackers play on empathy, fear, excitement, or guilt. They may claim a family emergency, a recent death, a new baby, or a windfall opportunity. The goal is to cloud your judgment so you bypass your normal caution.
 
-Consider Your (and Others') Privacy
------------------------------------
+**Your defense:** Recognize when your emotional state is being used to justify an unusual action. The fact that someone is going through a difficult time should have zero impact on whether you share sensitive information or deviate from normal procedures.
 
-Depending on the vector the social engineer is using, it is possible you may actually only be a stepping stone towards their goal rather than the direct medium for attack. This is usually the case if they determine that you are not able to help them or do not have access or the ability to do what they are interested in.
+### Reciprocity and Flattery
 
-Always consider your own privacy and the privacy of others around you, especially when dealing with unsolicited contact from someone that needs your help "right away". 
+An attacker may do you a small favor, share seemingly valuable information, or compliment you to create a sense of obligation. Once you feel indebted, you are more likely to comply with a subsequent request.
 
-You should be very careful about providing personal information about yourself, your family members or your friends to any strangers.
+**Your defense:** Be aware of this dynamic, especially with unsolicited contacts. You do not owe anything to someone you did not ask to hear from.
 
-Watch Out for the Hook
-----------------------
+## Modern Attack Vectors
 
-The final phase of a social engineering attack is called the "hook". The hook might be as small as finding out the name of your boss or their phone number. The hook could also be sending you an email and asking you to view an attachment. It might be getting you to perform an action that would never be permitted under any other circumstances except at this very moment - in your mind. When you combine all the items being thrown at you by the social engineer, it may seem acceptable and reasonable to think "just this one time". 
+Social engineering has evolved far beyond suspicious emails with bad grammar. The following are the primary vectors in use today.
 
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
+### Phishing (Email)
+
+Phishing emails have become extremely sophisticated. Over 80% of phishing emails analyzed in recent studies contained AI-generated content, making them grammatically flawless and highly personalized. Approximately 50% now use spear-phishing techniques — meaning the email is tailored to you specifically using information harvested from social media, data breaches, and public records.
+
+**What to watch for:**
+- Emails creating urgency about account security, missed deliveries, unpaid invoices, or legal action
+- Links that look correct at a glance but use slight misspellings or different domains (e.g., "arnazon.com" instead of "amazon.com")
+- Attachments you were not expecting, even if they appear to come from someone you know
+- "Reply-to" addresses that do not match the "From" address
+- Requests to bypass normal procedures or keep the interaction confidential
+
+**Your defense:** Hover over links before clicking to inspect the actual URL. When in doubt, navigate to the website directly by typing the address yourself rather than clicking any link. If an email claims to be from someone you know but the request is unusual, verify through a separate channel.
+
+### Vishing (Voice Calls)
+
+Voice-based social engineering surged 442% in late 2024, and AI voice cloning has made it dramatically more dangerous. Modern tools can convincingly replicate someone's voice from just a few seconds of publicly available audio — from a voicemail greeting, a conference talk, a podcast, or social media videos.
+
+Real-world examples include attackers cloning a company executive's voice to authorize fraudulent wire transfers (one case resulted in a $25.6 million loss) and attackers calling employees while impersonating IT support to harvest credentials.
+
+**What to watch for:**
+- Unexpected calls from authority figures (executives, IT, government agencies) making urgent requests
+- Callers who already seem to know details about you or your organization
+- Requests involving money transfers, credential sharing, or installing software
+- Calls that discourage you from verifying the request through other channels
+
+**Your defense:** If you receive an unexpected call requesting sensitive actions, hang up and call the person back at a number you already have on file — not a number they provide. Establish a verbal code word with family members for emergency situations so you can verify identity during urgent calls.
+
+### Smishing (Text Messages / SMS)
+
+Text message attacks exploit the trust people place in SMS and the urgency of notifications. Common lures include fake delivery notifications, bank fraud alerts, toll payment reminders, and multi-factor authentication code requests.
+
+**Your defense:** Never click links in unexpected text messages. Go directly to the app or website of the company in question. Never share MFA codes with anyone who contacts you — legitimate organizations will never ask for them.
+
+### Deepfakes (AI-Generated Video and Audio)
+
+AI-generated deepfakes are no longer theoretical. Attackers have used deepfake video calls to impersonate executives and authorize multi-million-dollar transfers. In one documented case, fraudsters created a deepfake video call with what appeared to be multiple company executives, convincing a finance employee to transfer approximately $25 million.
+
+**What to watch for:**
+- Video calls where the person's lip movements seem slightly off
+- Unusual requests during video calls that were not pre-scheduled or expected
+- Multi-channel attacks where a deepfake call is followed by a WhatsApp message and a shared document — the reinforcement across channels is designed to build false confidence
+
+**Your defense:** For any high-value request received over video or voice, verify through a completely separate channel. Establish verification protocols with your organization and family — a code word or secondary confirmation step that cannot be replicated by AI.
+
+### Multi-Channel Attacks
+
+Modern attackers coordinate across email, phone, text, messaging apps, and social media simultaneously. A phishing email might be followed by a "confirmation" phone call, or a text message might reference an email you received earlier. Each touchpoint reinforces the others and makes the overall attack more convincing.
+
+**Your defense:** The fact that a request comes through multiple channels does not make it more legitimate. If anything, a coordinated multi-channel approach to create urgency should increase your suspicion.
+
+## Targeted Scams to Know
+
+### Pig Butchering (Investment Fraud)
+
+Pig butchering is a long-term confidence scam where an attacker builds a relationship with you over weeks or months — typically through dating apps, social media, or messaging platforms — before introducing a "can't-miss" investment opportunity, usually in cryptocurrency. The fraudulent platform shows impressive fake returns, encouraging you to invest more and more before the scammers disappear with everything.
+
+These scams generated billions of dollars in losses in 2024 alone, with individual victims losing anywhere from $10,000 to over $100,000. The operations are run by organized crime groups, often from compounds in Southeast Asia.
+
+**Warning signs:** An online contact who never meets in person or avoids video calls, unsolicited investment advice, platforms showing unrealistically high returns, and pressure to invest quickly before an "opportunity closes."
+
+**Your defense:** Never invest based on the recommendation of someone you have only met online. If an investment sounds too good to be true, it is. Use only regulated, well-known investment platforms. Report suspected scams to the FBI's IC3 (ic3.gov) or the FTC (reportfraud.ftc.gov).
+
+### SIM Swap Attacks
+
+In a SIM swap, an attacker calls your mobile carrier, impersonates you using personal information gathered from data breaches and social media, and convinces the carrier to transfer your phone number to a new SIM card. Once they control your number, they can intercept SMS-based two-factor authentication codes and access your accounts.
+
+SIM swap attacks surged dramatically — the UK logged a 1,055% increase in unauthorized SIM swaps from 2023 to 2024. In one case, T-Mobile was ordered to pay $33 million after a single SIM swap allowed thieves to drain a customer's cryptocurrency wallet. Attackers now use AI-powered voice cloning and scripted call dialogues to defeat carrier verification.
+
+**Your defense:**
+- Set a strong, unique PIN or passphrase on your carrier account (not your birthday or last four digits of your SSN)
+- Request a port-freeze or SIM-lock from your carrier
+- Move away from SMS-based two-factor authentication — use an authenticator app (like Authy or Google Authenticator) or a hardware security key (like YubiKey) instead
+- Consider using an eSIM, which is harder to transfer without device access
+- See the Mobile Phone guide in this series for carrier-specific instructions
+
+### Business Email Compromise (BEC)
+
+BEC attacks target organizations by impersonating executives, vendors, or business partners to redirect payments or steal sensitive data. These attacks cost organizations billions of dollars annually and often involve careful research into company structure, communication patterns, and ongoing transactions.
+
+**Your defense:** Verify any request to change payment details, wire money, or share sensitive information through a separate, trusted communication channel. Establish internal protocols requiring dual authorization for financial transactions above a set threshold.
+
+## Protecting Yourself: Core Principles
+
+### Verify Independently
+
+Any time someone contacts you and requests sensitive information, money, account access, or an unusual action, verify their identity through a channel you initiate. Call them at a number you already have. Walk to their office. Send a separate email to their known address. Do not use contact information provided by the requester.
+
+### Slow Down
+
+Urgency is the attacker's weapon. Take your time. A legitimate request will survive a five-minute delay for verification. If someone pressures you not to verify, that is the strongest possible signal that you should verify.
+
+### Limit Your Public Information
+
+The more information about you that is publicly available, the easier it is for an attacker to craft a convincing approach. Review the Public Records guide in this series for data broker opt-out instructions. Lock down social media profiles. Be cautious about what you share online — job titles, travel plans, family details, and workplace information all provide material for targeted attacks.
+
+### Use Phishing-Resistant Authentication
+
+Passkeys and hardware security keys (FIDO2/WebAuthn) are immune to phishing and SIM swapping. Enable them on every account that supports them. See the Passwords guide in this series for details.
+
+### Protect Your Devices
+
+Keep your operating system, browser, and apps updated. Use a password manager. Enable full-disk encryption. These measures limit the damage if a social engineering attack succeeds in getting you to click a malicious link or open a compromised attachment. See the Personal Computer and Mobile Phone guides for details.
+
+### Report and Share
+
+If you encounter a social engineering attempt, report it. File a complaint at ic3.gov (FBI) or reportfraud.ftc.gov (FTC). Tell your family, friends, and coworkers — awareness is the most effective defense, and sharing real examples helps others recognize attacks before they succeed.
+
+## Quick-Reference: Red Flags Checklist
+
+- Unexpected contact creating a sense of urgency
+- Requests to bypass normal procedures "just this once"
+- Name-dropping coworkers, friends, or authority figures you have not verified
+- Pressure to keep the interaction confidential
+- Requests for passwords, MFA codes, or remote access
+- Links or attachments you were not expecting
+- Emotional appeals (fear, sympathy, excitement) tied to a specific action
+- Investment opportunities from people you have only met online
+- Calls or messages asking you to move money or change payment details
+- Anyone discouraging you from independently verifying their identity
