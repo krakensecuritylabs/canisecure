@@ -125,4 +125,3 @@ If you use your laptop outside your home, add physical security layers:
 -   **Review startup programs and background services** periodically. Remove anything you don't recognize or no longer need.
 -   **Use Lockdown Mode (macOS)** if you are a high-risk target. See the [iCloud / Apple Account guide](/guides/icloud) for details.
 
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
