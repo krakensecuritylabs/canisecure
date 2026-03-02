@@ -1,115 +1,144 @@
 ---
 title: "Mobile Phone"
-updated: "2020-03-06"
+updated: "2026-03-02"
 category: "Personal"
+links: {"Apple Stolen Device Protection":"https://support.apple.com/en-us/120340","Android Privacy Settings":"https://www.android.com/intl/en_us/safety/privacy/","EFF Mobile Privacy Guide":"https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings","Efani Secure Carrier":"https://www.efani.com"}
 ---
 
-More of our lives exist on a mobile device today than on a personal computer. It is vital that you are responsible with your mobile device to ensure that if it were to fall into the wrong hands, you are not putting your digital life at risk. 
+More of our lives exist on a mobile device today than on a personal computer — email, banking, authenticator apps, crypto wallets, messaging, photos, and location data all live on your phone. A compromised mobile device or phone number can cascade into the loss of every account tied to it. Treat your mobile phone as one of your most critical assets.
 
-First, you should think about the last time you purchased a mobile device. If your device is more than 3 years old, it is likely no longer supported by the manufacturer, meaning you will no longer be getting software updates. If this is the case, it is time to get a new phone. You don't necessarily need to go to your carrier's store and shell out $1,000 but having a mobile device that is still supported and patched by the manufacturer is extremely important. 
+## Keep Your Device Current
 
-Now that you have a device that is still getting updates, go ahead and update it. Make sure to keep the OS and the apps that you have running on it up-to-date at all times. 
+If your phone is no longer receiving software updates from the manufacturer, it is accumulating unpatched vulnerabilities and you are at risk. Replace it.
 
-Next, make sure you set a passcode on the device to something greater than 4 numbers. In addition to protecting the device from being accessed by anyone other than you, setting a passcode will also turn on device-level encryption automatically for many mobile manufacturers. 
+-   **Apple** typically supports iPhones for 6-7 years of iOS updates. Check at **Settings → General → Software Update**.
+-   **Google Pixel** devices receive 7 years of OS and security updates. **Samsung Galaxy** flagships receive 7 years as of the S24 series. Other Android manufacturers vary — check your manufacturer's support policy.
+-   You don't need the latest flagship — a recent mid-range phone that's still receiving security patches is far better than an outdated expensive phone.
+-   **Enable automatic updates** for both the OS and your apps. Security patches should be installed promptly.
 
-Some devices have fingerprint or facial recognition that can be used instead of a passcode. These are generally acceptable to use, but you need to consider the environment you operate in. If you live or travel frequently in an area where searchers and random law enforcement stops are common, you should not enable these features or if you normally use them you should proactively disable them when your environment changes. You can claim to forget a passcode, but you can't forget your fingerprint or face.
+## Device Passcode and Encryption
 
-### Mobile Number Hijacking / SIM Swap Attacks
+Set a strong passcode on your device. A 4-digit PIN is not sufficient.
 
-Many attacks, especially in the cryptocurrency industry, happen through social engineering phone support by remote attackers but the FTC's example points out that it's trivial for an attacker to make a fake ID, walk in to a physical store and have them override your security features. Read the following accounts of successful attacks:
+-   Use at least a **6-digit numeric passcode**, but an **alphanumeric passcode** is significantly stronger. On iPhone: **Settings → Face ID & Passcode → Change Passcode → Passcode Options → Custom Alphanumeric Code**.
+-   Setting a passcode automatically enables **full-device encryption** on both iOS and modern Android devices. This means if someone physically takes your phone, they cannot read its contents without the passcode.
+-   **Enable auto-lock** with a short timeout (30 seconds to 1 minute) so your phone locks quickly when you set it down.
 
--   [Coinbase Mobile Hijacking](https://medium.com/the-coinbase-blog/on-phone-numbers-and-identity-423db8577e58).
+## Biometrics (Face ID / Fingerprint)
 
--   [FTC CTO's Mobile Hijacking](https://www.ftc.gov/news-events/blogs/techftc/2016/06/your-mobile-phone-account-could-be-hijacked-identity-thief).
+Biometric authentication (Face ID, Touch ID, fingerprint) is generally acceptable and convenient. However, consider your threat model:
 
--   [SIM Swapping Scheme](https://apple.news/A5RrcZMjaSCymMBRpFFrH6g).
+-   In jurisdictions where law enforcement can compel biometric unlock (but not passcode disclosure), you may want to **disable biometrics** or know how to quickly disable them. On iPhone, pressing the side button and either volume button simultaneously for 2 seconds triggers **Emergency SOS** and temporarily disables Face ID, requiring the passcode for the next unlock.
+-   If you travel frequently in areas where searches and random stops are common, consider proactively disabling biometrics before entering those environments. You can claim to forget a passcode, but you can't forget your fingerprint or face.
 
-For more background on mobile security weaknesses, read the following:
+## Stolen Device Protection (iOS)
 
--   [How Social Engineering is Done](http://www.businessinsider.com/hacker-social-engineer-2016-2).
+If you use an iPhone, enable **Stolen Device Protection**. This feature prevents a thief who has both your phone and your passcode from taking over your Apple Account, disabling Find My, or accessing your passwords without biometric authentication plus a one-hour security delay.
 
--   [Telco Employee Speaks on Security](https://news.ycombinator.com/item?id=8541313).
+To enable: **Settings → Face ID & Passcode → Stolen Device Protection**. As of iOS 18.4, this is enabled by default on new devices — verify it's active on yours. See the [iCloud / Apple Account guide](/guides/icloud) for more details.
 
--   [Wired - Stop Using SMS 2FA](https://www.wired.com/2016/06/hey-stop-using-texts-two-factor-authentication/).
+## SIM Swap and Number Hijacking
 
--   [NIST Deprecating SMS 2FA](https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html).
+SIM swap attacks remain one of the most devastating attack vectors, especially targeting cryptocurrency holders. An attacker convinces your carrier (via social engineering, a fake ID, or a bribed/negligent employee) to transfer your phone number to a new SIM or eSIM they control. Once they have your number, they can intercept SMS 2FA codes, reset passwords, and cascade through your email and financial accounts in minutes.
 
-Understand the outcome of a mobile number hijacking
+### What happens during a SIM swap
 
-1.  Privilege escalation
+1.  **Privilege escalation** — the attacker gains access to any service using SMS for 2FA or account recovery, including email, banking, and crypto exchanges.
+2.  **Account takeover cascade** — once they access your email, they reset passwords on every other account tied to it.
+3.  **Phishing** — they impersonate you via your phone number to phish your friends, family, and coworkers.
+4.  **Harassment** — attackers may use your number's connection to your address for swatting (calling emergency services to your home) or other harassment.
 
-    -   Attacker can gain access to any services relying on phone/SMS as account recovery options.
+### Protect your carrier account
 
-    -   Attacker can gain access to banking and utilities which pre-verify you by the phone number you're calling in from.
+Every major US carrier now offers SIM swap protections, but **most are opt-in** — you must enable them yourself:
 
-    -   If the attacker can get in to your email account, they often can learn of and take over your other accounts from there.
+-   **T-Mobile**: Enable **Account Takeover Protection** and **SIM Protection** in the T-Mobile app or by calling support. Set a strong 6-15 digit **account PIN** (required for all customers). Enable **Port Out Protection** to block unauthorized number transfers.
+-   **AT&T**: Enable **Wireless Account Lock** in the myAT&T app — this freezes SIM swaps, upgrades, and port-outs behind a single toggle.
+-   **Verizon**: Enable **Number Lock** and **SIM Protection** in the My Verizon app. Verizon enforces delays when disabling these safeguards.
 
-3.  Phishing
+Regardless of carrier:
 
-    -   Attackers will use your phone to impersonate you, phishing your friends, family and coworkers to be their next victims.
+-   **Set a strong account PIN or passcode** — not your birthday, not the last 4 of your SSN.
+-   **Request a port freeze / number lock** to prevent your number from being transferred to another carrier without your direct intervention.
+-   **Ask your carrier to add a note** that your account has been targeted for takeover in the past (it's okay to say this preemptively). This note will alert customer service reps if someone attempts to modify your account.
+-   **Remove security questions** from your carrier account if possible — they are easily guessable or discoverable via social media.
 
-    -   Attackers will use information collected from your associates to further escalate their attack on you.
+### Enable SIM PIN
 
-5.  Harassment
+A **SIM PIN** locks the SIM card itself, requiring a separate code every time the phone restarts or the SIM is moved to a new device. This adds a layer of protection even if your carrier account is compromised.
 
-    -   Attackers will take advantage of your phone's connection to your address to order emergency services such as Police Swatting (where the call 911 from your number a report a murder in your home resulting in the police kicking down your door) or Fire & Ambulance services where you will be responsible for the charges if your city charges for such services.
+-   **iPhone**: **Settings → Cellular → SIM PIN**
+-   **Android**: **Settings → Security → SIM card lock** (location varies by manufacturer). Android 17 is introducing standardized SIM PIN management for both physical SIM and eSIM.
 
-Secure your account/phone number with your carrier
+Your carrier can provide the default SIM PIN (often 1111 or 1234) — change it immediately to something unique.
 
-You can request that your cell phone provider enable additional security measures to secure your account. Each carrier is different so see below some of the measures/experiences by carrier.
+### Consider eSIM
 
-A couple of items to do to mitigate the risk of being attacked via your mobile phone:
+eSIM is inherently harder to swap than a physical SIM because it cannot be removed and inserted into another device. However, eSIM swaps are still possible through carrier account compromise. The protections above (account lock, port freeze, SIM PIN) still apply.
 
-1.  Call your carrier and ask them to add an enhanced security lock to your account to prevent them from issuing a new SIM card with your number or allowing someone to port your number to a new carrier. Also ask them to put a note on your account that you have been targeted in the past for account take over (it is OK to lie about this here). This note will then be seen by the customer service rep should someone attempt to take over your number in the future.
+### Protect your accounts against number hijacking
 
-2.  Login to your personal email accounts (eg. Gmail)
+Even with carrier protections in place, assume they can be bypassed:
 
-    -  Enable 2FA (hardware token like a Yubikey is best, but Google Authenticator can also be used).
+1.  **Remove your phone number from account recovery** on critical accounts (email, banking, crypto). Use authenticator apps or hardware keys for 2FA instead.
+2.  **Enable non-SMS 2FA on every critical account** — hardware key (YubiKey) or authenticator app (Authy, Google Authenticator, 2FAS). See the [Digital Life guide](/guides/digitallife) for the full 2FA hierarchy.
+3.  If SMS 2FA is the only option a service offers, use a **Google Voice number** or separate prepaid number rather than your primary carrier number. Google Voice numbers cannot be SIM-swapped through a carrier.
 
-    -  Remove your mobile phone number from account recovery.
+### Recognize and respond to a SIM swap
 
-    -  Remove any backup emails attached to your account.
+**Telltale signs:**
+-   Your phone suddenly loses signal in an area where coverage is normally good
+-   Phone displays "Emergency calls only" or "No Network"
+-   You cannot make or receive calls or texts
+-   Data services stop working when not on Wi-Fi
+-   You receive unexpected notifications about account changes you didn't initiate
 
-3.  Login to all of your critical accounts like online banking, credit cards, Amazon and social media accounts that are linked to your email account and turn on 2FA (non-SMS wherever possible, if not possible use a Google Voice number, not your actual mobile number).
+**Immediate response:**
+1.  **Contact your carrier immediately** (from another phone) and request they reassign the number back to you and block the number from sending/receiving calls and SMS until it's restored. This may take hours to days.
+2.  **Change passwords** on your email and critical accounts immediately (from a device you trust).
+3.  **Remove SMS recovery** from key accounts if you haven't already.
+4.  **Alert your contacts** that phishing attempts may come from your number.
+5.  **File a police report** to preempt swatting or other harassment and to create a record for potential fraud disputes.
+6.  **Check your carrier bill** afterward for unauthorized charges, toll calls, or overages.
 
-Typically when an attack happens, your number will be ported to a new SIM, the voice/data plan will stop working on your phone, your number is then used by the attacker to recover access to your email account, then each of your personal accounts will have their passwords reset via email if 2FA is not enabled.
+## App Permissions and Privacy
 
-There have been instances were Step 1 above isn't good enough to prevent a phone number takeover, so having Step 2 and 3 in place will prevent a personal cascading disaster should this happen to you.
+Your phone's apps can access an enormous amount of data. Limit what you expose:
 
-Other mobile security enhancements include:
+### Location
 
--   PIN or Passcode & Mandatory SMS Verification: to be required for any subsequent changes on your account.
+-   Set most apps to **"While Using the App"** or **"Never"** for location access. Very few apps need "Always" access.
+-   On Android, prefer **"Approximate location"** over "Precise location" for apps that don't need pinpoint accuracy (weather, news, etc.).
+-   **Disable Significant Locations / Frequent Locations** if you don't need it: iPhone at **Settings → Privacy & Security → Location Services → System Services → Significant Locations**; Android varies by manufacturer.
 
--   Port Freeze: to prevent your phone number being reassigned to a different carrier.
+### Camera and microphone
 
-Identify and Respond when your number has been hijacked
+-   Both iOS and Android show a **colored indicator dot** (green for camera, orange for microphone) when an app is actively using these sensors. If you see this unexpectedly, investigate.
+-   Periodically review which apps have camera and microphone access and revoke any that don't need it.
 
-Telltale signs include
+### Contacts, photos, and other data
 
--   Phone stops receiving a signal in an area where the signal is generally good.
+-   Be cautious about granting contacts access — apps that sync your contacts (messaging apps, social media) upload your entire address book to their servers.
+-   Review photo library access — grant "Selected Photos" rather than "Full Access" where possible.
 
--   Phone displays "Emergency calls only" or "No Network".
+### Advertising and tracking
 
--   You are unable to make or receive calls.
+-   **iPhone**: Go to **Settings → Privacy & Security → Tracking** and deny all app tracking requests. Also go to **Settings → Privacy & Security → Apple Advertising** and disable personalized ads.
+-   **Android**: Go to **Settings → Privacy → Ads** and delete your advertising ID.
 
--   When not on Wi-Fi, data services don't work.
+### Privacy dashboards
 
-How to respond if your number has been hijacked
+-   **iPhone**: Review **Settings → Privacy & Security → App Privacy Report** to see which apps access your data and how often.
+-   **Android**: Review **Settings → Privacy → Privacy Dashboard** for a similar overview.
 
--   Immediately contact your carrier and ask them to:
+## Additional Recommendations
 
--   Reassign the number back to you (could take days).
-
--   Stop the number from sending/receiving any calls and SMS until it's reassigned to you.
-
--   Do everything in the above section to make sure it doesn't happen again.
-
--   Immediately attempt to remove SMS recovery from key accounts.
-
--   Immediately let your friends and social network know to be on alert for phishing attempts coming from your phone.
-
--   Call your local police and file a report to preempt a swatting by the harassing attacker whose ransom you have not paid.
-
--   Later, check your bill and make sure you were not charged for any overage, toll calls or unauthorized charges after the attack.
+-   **Enable Find My (iPhone) or Find My Device (Android)** so you can locate, lock, or remotely erase your phone if lost or stolen.
+-   **Use Lockdown Mode (iPhone)** if you are a high-risk target. See the [iCloud / Apple Account guide](/guides/icloud) for details.
+-   **Don't install apps from outside official app stores** unless you have a specific, informed reason. Sideloaded apps bypass store-level security review.
+-   **Use a VPN** on public Wi-Fi. See the [Digital Life guide](/guides/digitallife) for VPN recommendations.
+-   **Disable Bluetooth and Wi-Fi** when not in use to reduce your wireless attack surface and prevent passive tracking via broadcast signals.
+-   **Be cautious with public USB charging stations** ("juice jacking"). Use your own charger and cable, or a USB data blocker, when charging in public.
+-   **Review and clean up installed apps** periodically. Remove anything you no longer use — dormant apps still have the permissions you granted them.
 
 *(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
