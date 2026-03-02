@@ -1,6 +1,6 @@
 ---
 title: "U.S. Credit Report and Freeze"
-updated: "2019-11-04"
+updated: "2026-03-02"
 category: "Personal"
 links: {"Credit Freezes are Free: Let the Ice Age Begin":"https://krebsonsecurity.com/2018/09/credit-freezes-are-free-let-the-ice-age-begin/","Annual Credit Report":"https://www.annualcreditreport.com"}
 ---
