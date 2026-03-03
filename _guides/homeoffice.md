@@ -137,5 +137,3 @@ Review your coverage annually and update it as your situation changes.
 -   **Secure your trash and recycling.** Even shredded documents in a publicly accessible bin can be pieced together. Consider keeping bins in a locked area or garage until pickup day.
 -   **Be cautious with delivery and service workers.** Be aware of who enters your home and what they can see — an open laptop with sensitive information, hardware wallets on a desk, or visible security system keypads.
 -   **If you hold significant crypto or other high-value assets**, keep that information private. Don't advertise wealth (expensive equipment visible through windows, brand-name packaging in the recycling, etc.). This applies equally to your online presence — see the [Digital Life guide](/guides/digitallife) for more.
-
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
