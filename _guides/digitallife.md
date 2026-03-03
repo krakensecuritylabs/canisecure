@@ -129,4 +129,4 @@ Use this as a quick reference to verify your baseline security posture:
 -   ☐ Sensitive conversations on Signal or other E2E encrypted platform
 -   ☐ AI tools reviewed for data retention and disabled where unnecessary
 
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
+*(This guide is part of a [series on Personal Security](/news/2026-03-06-personal-security-series).)*
