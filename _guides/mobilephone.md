@@ -140,5 +140,3 @@ Your phone's apps can access an enormous amount of data. Limit what you expose:
 -   **Disable Bluetooth and Wi-Fi** when not in use to reduce your wireless attack surface and prevent passive tracking via broadcast signals.
 -   **Be cautious with public USB charging stations** ("juice jacking"). Use your own charger and cable, or a USB data blocker, when charging in public.
 -   **Review and clean up installed apps** periodically. Remove anything you no longer use — dormant apps still have the permissions you granted them.
-
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
