@@ -86,4 +86,3 @@ See the [Digital Life guide](/guides/digitallife) and [Mobile Phone guide](/guid
 -   ☐ Old/weak passwords identified and rotated (check your password manager's "health" or "audit" feature)
 -   ☐ Recovery codes for critical accounts saved securely in password manager or physically
 
-*(This guide is part of a [series on Personal Security](/news/2020-03-06-personal-security-series).)*
