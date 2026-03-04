@@ -4,6 +4,14 @@ layout: default
 <section class="guide">
 	<div class="guide-inside">
 	<h1 class="guide-title">{{ page.title | escape_once }}</h1>
+			{% if page.video %}
+			<div class="guide-video">
+				<div class="guide-video-container">
+					<iframe src="{{ page.video }}" title="{{ page.title | escape_once }} — Video Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+				</div>
+				<p class="guide-video-caption">Watch the short version, then read below for the full guide.</p>
+			</div>
+			{% endif %}
 			{{ content | markdownify }}
 			<footer class="guide-footer">
 				{% if page.notes_by_num.size > 0 or page.links.size > 0%}

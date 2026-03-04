@@ -1,3 +1,33 @@
+.guide-video {
+	margin-bottom: 1.5rem;
+}
+
+.guide-video-container {
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%; /* 16:9 aspect ratio */
+	height: 0;
+	overflow: hidden;
+	border-radius: 4px;
+	background: #1b1b1d;
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		border: none;
+	}
+}
+
+.guide-video-caption {
+	margin-top: 0.5rem;
+	font-size: 0.875rem;
+	color: rgba(255, 255, 255, 0.5);
+	font-style: italic;
+}
+
 .guide {
 	position: relative;
 	padding: 1rem 2rem 0;
