@@ -2,6 +2,7 @@
 title: "IoT Devices"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_iotdevices.mp4"
 links: {"OWASP IoT Top 10":"https://owasp.org/www-project-internet-of-things-top-10/","Matter Protocol":"https://csa-iot.org/all-solutions/matter/","Bitdefender Network Segmentation Guide":"https://www.bitdefender.com/en-us/blog/hotforsecurity/network-segmentation","Firewalla Network Segmentation":"https://help.firewalla.com/hc/en-us/articles/4408644783123-Network-Segmentation"}
 ---
 

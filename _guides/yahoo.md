@@ -2,6 +2,7 @@
 title: "Yahoo Account"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_yahoo.mp4"
 links: {"Yahoo Account Security":"https://login.yahoo.com/account/security","Yahoo Privacy Dashboard":"https://legal.yahoo.com/us/en/yahoo/privacy/dashboard/index.html","Yahoo Ad Interest Manager":"https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/","Yahoo 2-Step Verification":"https://help.yahoo.com/kb/add-two-step-verification-extra-security-sln5013.html"}
 ---
 

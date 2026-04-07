@@ -2,6 +2,7 @@
 title: "Travel Security"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_travelsecurity.mp4"
 links: {"US State Dept Travel Advisories":"https://travel.state.gov/content/travel/en/international-travel.html","UK Foreign Travel Advice":"https://www.gov.uk/foreign-travel-advice","STEP Program":"https://step.state.gov/step","CDC Travel Health":"https://wwwnc.cdc.gov/travel","CBP Device Search Policy":"https://www.cbp.gov/travel/cbp-search-authority/border-search-electronic-devices","EFF Border Search Guide":"https://www.eff.org/issues/border-searches"}
 ---
 

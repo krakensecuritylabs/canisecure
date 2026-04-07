@@ -2,6 +2,7 @@
 title: "Thunderbird"
 updated: "2026-03-02"
 category: "Software"
+video_file: "/assets/video/quick_secure/can_i_secure_thunderbird.mp4"
 links: {"Thunderbird Privacy & Security":"https://support.mozilla.org/en-US/products/thunderbird/privacy-and-security","OpenPGP in Thunderbird":"https://support.mozilla.org/en-US/kb/openpgp-thunderbird-howto-and-faq","Thunderbird Scam Detection":"https://support.mozilla.org/en-US/kb/thunderbirds-scam-detection","Thunderbird Security Advisories":"https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/"}
 ---
 

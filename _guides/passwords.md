@@ -2,6 +2,7 @@
 title: "Passwords"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_passwords.mp4"
 links: {"Have I Been Pwned":"https://haveibeenpwned.com","Bitwarden":"https://bitwarden.com","1Password":"https://1password.com","EFF Dice-Generated Passphrases":"https://www.eff.org/dice","NIST Password Guidelines":"https://pages.nist.gov/800-63-4/sp800-63b.html"}
 ---
 

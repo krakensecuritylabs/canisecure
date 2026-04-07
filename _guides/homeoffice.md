@@ -2,6 +2,7 @@
 title: "Home Office"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_homeoffice.mp4"
 links: {"Medeco Locks":"https://www.medeco.com","Mul-T-Lock":"https://www.mul-t-lock.com","SimpliSafe":"https://simplisafe.com","3M Security Film":"https://www.3m.com/3M/en_US/window-film-us/solutions/security-safety/","Cloudflare DNS":"https://1.1.1.1"}
 ---
 

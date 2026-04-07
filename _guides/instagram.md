@@ -2,6 +2,7 @@
 title: "Instagram"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_instagram.mp4"
 links: {"Instagram Security Tips":"https://help.instagram.com/369001149843369","Instagram Privacy Settings":"https://help.instagram.com/196883487377501","Instagram 2FA Setup":"https://help.instagram.com/566810106808145","Meta AI Data Objection":"https://privacycenter.instagram.com/guide/article/submit-a-request-to-exercise-your-rights"}
 ---
 

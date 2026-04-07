@@ -2,6 +2,7 @@
 title: "Public Records"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_publicrecords.mp4"
 links: {"California DROP Platform":"https://privacy.ca.gov/drop/","Google Results About You":"https://myactivity.google.com/results-about-you","DeleteMe":"https://joindeleteme.com","Incogni":"https://incogni.com","Optery":"https://www.optery.com"}
 ---
 

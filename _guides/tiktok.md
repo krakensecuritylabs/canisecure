@@ -2,6 +2,7 @@
 title: "TikTok"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_tiktok.mp4"
 links: {"TikTok Account Safety":"https://support.tiktok.com/en/safety-hc/account-and-user-safety/account-safety","TikTok Privacy Settings":"https://support.tiktok.com/en/account-and-privacy/account-privacy-settings","TikTok Ads and Your Data":"https://www.tiktok.com/privacy/ads-and-your-data/en","TikTok 2-Step Verification":"https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/two-step-verification"}
 ---
 

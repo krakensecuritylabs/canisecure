@@ -2,6 +2,7 @@
 title: "Social Engineering Protection"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_socialengineering.mp4"
 links: {"FBI IC3 Reporting":"https://www.ic3.gov","FTC Report Fraud":"https://reportfraud.ftc.gov","Have I Been Pwned":"https://haveibeenpwned.com","US Secret Service - Pig Butchering":"https://www.secretservice.gov/investigations/investmentfraud-pigbutchering"}
 ---
 

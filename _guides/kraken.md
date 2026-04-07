@@ -2,6 +2,7 @@
 title: "Kraken.com Exchange"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_kraken.mp4"
 links: {"Kraken - Securing your account":"https://support.kraken.com/hc/en-us/articles/201396837-Securing-your-account","Kraken - Passkeys & Multiple 2FA":"https://blog.kraken.com/crypto-education/passkeys-multiple-2fa","Kraken - Global Settings Lock":"https://support.kraken.com/articles/201396877-what-is-the-global-settings-lock-gsl-"}
 ---
 

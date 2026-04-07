@@ -2,6 +2,7 @@
 title: "WordPress"
 updated: "2026-03-02"
 category: "Software"
+video_file: "/assets/video/quick_secure/can_i_secure_wordpress.mp4"
 links: {"WordPress Security Documentation":"https://developer.wordpress.org/advanced-administration/security/hardening/","WP 2FA Plugin":"https://wordpress.org/plugins/wp-2fa/","Wordfence":"https://wordpress.org/plugins/wordfence/","Patchstack Vulnerability Database":"https://patchstack.com/database/","SolidWP Vulnerability Reports":"https://solidwp.com/blog/category/vulnerability-report/"}
 ---
 

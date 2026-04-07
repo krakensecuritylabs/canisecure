@@ -2,6 +2,7 @@
 title: "Zoom Video Conferencing"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_zoom.mp4"
 links: {"Zoom Security Settings":"https://zoom.us/profile/setting","Zoom 2FA Setup":"https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066054","Zoom Passkey Setup":"https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0083521","Zoom AI Companion Privacy":"https://www.zoom.com/en/products/ai-assistant/resources/privacy-security/","Zoom E2E Encryption":"https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060861"}
 ---
 

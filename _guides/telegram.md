@@ -2,6 +2,7 @@
 title: "Telegram"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_telegram.mp4"
 links: {"Telegram Privacy FAQ":"https://telegram.org/faq#q-do-you-process-data-requests","Telegram Two-Step Verification":"https://telegram.org/blog/sessions-and-2-step-verification","Telegram Passkeys":"https://telegram.org/blog/passkeys-and-gift-offers","Signal Messenger":"https://signal.org/"}
 ---
 

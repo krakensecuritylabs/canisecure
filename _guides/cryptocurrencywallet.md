@@ -2,6 +2,7 @@
 title: "Cryptocurrency Wallet"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_cryptocurrencywallet.mp4"
 links: {"Ledger Security Checklist":"https://www.ledger.com/academy/topics/security/crypto-wallet-security-checklist-protect-crypto-with-ledger","BitPay Seed Phrase Guide":"https://www.bitpay.com/blog/how-to-store-crypto-seed-phrase","Hacken Wallet Security":"https://hacken.io/discover/wallet-security/"}
 ---
 

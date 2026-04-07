@@ -2,6 +2,7 @@
 title: "Personal Computer"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_personalcomputer.mp4"
 links: {"Apple FileVault":"https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac","Microsoft BitLocker":"https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838","uBlock Origin":"https://ublockorigin.com","Mullvad VPN":"https://mullvad.net","Signal":"https://signal.org"}
 ---
 

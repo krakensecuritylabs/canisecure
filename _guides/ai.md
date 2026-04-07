@@ -2,6 +2,7 @@
 title: "AI Tools & Chatbots"
 updated: "2026-03-02"
 category: "AI"
+video_file: "/assets/video/quick_secure/can_i_secure_ai.mp4"
 links: {"OWASP Top 10 for LLM Applications":"https://owasp.org/www-project-top-10-for-large-language-model-applications/","Stanford HAI - AI Chatbot Privacy":"https://hai.stanford.edu/news/be-careful-what-you-tell-your-ai-chatbot","EFF - AI Privacy":"https://www.eff.org/issues/ai"}
 ---
 

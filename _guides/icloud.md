@@ -2,6 +2,7 @@
 title: "iCloud / Apple Account"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_icloud.mp4"
 links: {"Apple Account Security Overview":"https://support.apple.com/en-us/102651","Advanced Data Protection":"https://support.apple.com/en-us/108756","Apple Recovery Key":"https://support.apple.com/en-us/109345","Stolen Device Protection":"https://support.apple.com/en-us/120340","Apple Passkeys":"https://support.apple.com/en-us/102195"}
 ---
 

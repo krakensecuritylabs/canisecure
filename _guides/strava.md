@@ -2,6 +2,7 @@
 title: "Strava"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_strava.mp4"
 links: {"Strava Privacy Controls":"https://support.strava.com/hc/en-us/articles/207343930-Privacy-Controls","Strava Map Visibility":"https://support.strava.com/hc/en-us/articles/115000173384-Edit-Map-Visibility","Strava Global Heatmap Opt-Out":"https://support.strava.com/hc/en-us/articles/216918877-Strava-Metro-and-the-Global-Heatmap","Strava Activity Privacy":"https://support.strava.com/hc/en-us/articles/216919377-Activity-Privacy-Controls"}
 ---
 

@@ -2,6 +2,7 @@
 title: "Digital Life"
 updated: "2026-03-02"
 category: "Personal"
+video_file: "/assets/video/quick_secure/can_i_secure_digitallife.mp4"
 links: {"Have I Been Pwned":"https://haveibeenpwned.com","Proton Mail":"https://protonmail.com","Mullvad VPN":"https://mullvad.net","Bitwarden":"https://bitwarden.com","EFF Surveillance Self-Defense":"https://ssd.eff.org"}
 ---
 

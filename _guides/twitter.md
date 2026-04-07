@@ -2,6 +2,7 @@
 title: "X (Twitter)"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_twitter.mp4"
 links: {"X Security Settings":"https://x.com/settings/security","X Privacy Settings":"https://x.com/settings/privacy_and_safety","X Connected Apps":"https://x.com/settings/connected_apps","X Grok Settings":"https://x.com/settings/grok_settings"}
 ---
 

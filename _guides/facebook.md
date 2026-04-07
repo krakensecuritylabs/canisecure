@@ -2,6 +2,7 @@
 title: "Facebook"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_facebook.mp4"
 links: {"Facebook Privacy Checkup":"https://www.facebook.com/privacy/checkup/","Meta Accounts Center":"https://accountscenter.facebook.com/","Facebook Security Settings":"https://www.facebook.com/settings?tab=security","Meta AI Data Objection":"https://www.facebook.com/privacy/genai"}
 ---
 

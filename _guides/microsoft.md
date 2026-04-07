@@ -2,6 +2,7 @@
 title: "Microsoft / Outlook / Hotmail Account"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_microsoft.mp4"
 links: {"Microsoft Security Basics":"https://account.microsoft.com/security","Microsoft Privacy Dashboard":"https://account.microsoft.com/privacy","Go Passwordless":"https://support.microsoft.com/en-us/account-billing/how-to-go-passwordless-with-your-microsoft-account-674ce301-3574-4387-a93d-916751764c43","Passkey Setup":"https://support.microsoft.com/en-us/account-billing/signing-in-with-a-passkey-09a49a86-ca47-406c-8acc-ed0e3c852c6d"}
 ---
 

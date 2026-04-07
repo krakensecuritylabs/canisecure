@@ -2,6 +2,7 @@
 title: "Google Account"
 updated: "2026-03-02"
 category: "Account Security"
+video_file: "/assets/video/quick_secure/can_i_secure_google.mp4"
 links: {"Google Security Checkup":"https://myaccount.google.com/security-checkup","Google Privacy Checkup":"https://myaccount.google.com/privacycheckup","Google Passkeys":"https://myaccount.google.com/signinoptions/passkeys","Advanced Protection Program":"https://landing.google.com/advancedprotection/","Gemini Privacy Hub":"https://support.google.com/gemini/answer/13594961"}
 ---
 
