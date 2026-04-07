@@ -407,10 +407,10 @@ code {
 .canisecure-walkthrough {
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	margin: 1rem auto;
+	align-items: flex-start;
+	margin: 1rem 0;
 	padding: 0 1rem;
-	text-align: center;
+	text-align: left;
 }
 
 .canisecure-walkthrough-container {
