@@ -2,5 +2,7 @@
   link: /
 - name: Guides
   link: /guides/
+- name: Scorecard
+  link: /scorecard/
 - name: Contribute
   link: https://github.com/krakensecuritylabs/canisecure
