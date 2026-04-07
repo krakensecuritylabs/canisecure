@@ -3,4 +3,7 @@
 	{% include navigation.html %}
 	</div>
 	{% include search.html %}
+	{% if page.url == "/" %}
+	{% include walkthrough-video.html %}
+	{% endif %}
 </header>
