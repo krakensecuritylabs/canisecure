@@ -4,7 +4,17 @@ layout: default
 <section class="guide">
 	<div class="guide-inside">
 	<h1 class="guide-title">{{ page.title | escape_once }}</h1>
-			{% if page.video %}
+			{% if page.video_file %}
+			<div class="guide-video">
+				<div class="guide-video-container guide-video-container--selfhosted">
+					<video controls preload="metadata" playsinline style="display:block;width:480px;max-width:100%;height:auto;border-radius:0.25rem;">
+						<source src="{{ page.video_file }}" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				</div>
+				<p class="guide-video-caption">Watch the short version, then read below for the full guide.</p>
+			</div>
+			{% elsif page.video %}
 			<div class="guide-video">
 				<div class="guide-video-container">
 					<iframe src="{{ page.video }}" title="{{ page.title | escape_once }} — Video Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>

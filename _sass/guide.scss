@@ -21,6 +21,16 @@
 	}
 }
 
+.guide-video-container--selfhosted {
+	position: static;
+	width: auto;
+	padding-bottom: 0;
+	height: auto;
+	display: inline-block;
+	border: 1px solid rgba(104, 84, 219, 0.3);
+	box-shadow: 0 4px 24px rgba(104, 84, 219, 0.1);
+}
+
 .guide-video-caption {
 	margin-top: 0.5rem;
 	font-size: 0.875rem;
