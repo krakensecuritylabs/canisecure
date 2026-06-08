@@ -5,6 +5,10 @@ category: "Personal"
 links: {"FCC SIM Swap & Port-Out Fraud":"https://www.fcc.gov/consumers/guides/sim-swapping","FBI IC3 Reporting":"https://www.ic3.gov","FTC Report Fraud":"https://reportfraud.ftc.gov","Have I Been Pwned":"https://haveibeenpwned.com"}
 ---
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:960px;margin:1.5rem auto;">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="https://www.youtube.com/embed/UvqYtup1tsM" title="SIM Swapping Protection — Can I Secure?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 Your phone number is a master key. Most online accounts will text a verification code to it, and many will let you reset a password "via SMS." So if a criminal can move your number onto a phone they control, they can walk straight into your email, bank, and social accounts — without ever touching your device.
 
 That move is called a **SIM swap**. An attacker gathers a few personal details about you — often bought cheaply from data brokers or pulled from past breaches — then either social-engineers your mobile carrier into transferring your number to a new SIM, or abuses a self-service feature to port it away. Your phone suddenly loses service; the attacker's phone starts receiving your calls and codes. From there, account takeover happens in minutes.
